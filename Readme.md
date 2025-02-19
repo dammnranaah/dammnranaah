@@ -12,34 +12,63 @@
   </div>
 </div>
 
-## 🌟 About Me
+## About Me
 <div align="left">
   <img align="right" width="400" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
-  ### 👨‍💻 Rana Ahmed
-  #### 🚀 Frontend Developer | 🌍 Digital Realm
+  <div align="left">
+    <h3>
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=435&lines=Rana+Ahmed;Frontend+Developer" alt="Typing SVG" />
+    </h3>
+  </div>
 
-  ### 💪 Core Strengths
-  - ⚡ Frontend Development
-  - 🎨 UI/UX Design
-  - 🏗️ Web Architecture
+  <br>
 
-  ### ⚔️ Technical Arsenal
-  
-  | 🎨 Frontend | 💻 Backend | 🛠️ Tools |
-  |-------------|------------|-----------|
-  | ⚛️ React.js | 💪 Node.js | 🐳 Docker |
-  | 🔥 Next.js | 🛠️ Express.js | 🔄 Git |
-  | 💚 Vue.js | 🍃 MongoDB | 💻 VSCode |
+  <details>
+    <summary><b>Core Competencies</b></summary>
+    <br>
+    <div align="left">
+      <img src="https://img.shields.io/badge/Frontend_Development-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
+      <img src="https://img.shields.io/badge/UI/UX_Design-A020F0?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Web_Architecture-A020F0?style=for-the-badge&logo=webpack&logoColor=white"/>
+    </div>
+  </details>
 
-  ### 🎯 Current Focus
-  - 📚 Learning: Web3 🌐 & AI Integration 🤖
-  - 💼 Working on: Exciting Projects 🚀
-  - 🤝 Available for: Collaboration
+  <details>
+    <summary><b>Technical Stack</b></summary>
+    <br>
+    <div align="left">
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+    </div>
+  </details>
 
-  > ✨ Thanks for dropping by! Let's create something amazing together!
-  > 
-  > 🌟 Feel free to connect and explore collaborations!
+  <details>
+    <summary><b>Current Endeavors</b></summary>
+    <br>
+    <div align="left">
+      <img src="https://img.shields.io/badge/Learning-Web3_&_AI-A020F0?style=for-the-badge&logo=ethereum&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/Working_On-Exciting_Projects-A020F0?style=for-the-badge&logo=github&logoColor=white"/>
+      <br>
+      <img src="https://img.shields.io/badge/Open_For-Collaboration-A020F0?style=for-the-badge&logo=handshake&logoColor=white"/>
+    </div>
+  </details>
+
+  <br>
+
+  <div align="left">
+    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="400"/>
+  </div>
 
   <div align="center">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
