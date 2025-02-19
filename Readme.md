@@ -156,6 +156,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dammnranaah&repo=SpeicalStats&theme=midnight-purple&bg_color=0D1117&hide_border=true"/>
   </a>
 </div>
+</tr>
 
 ## Get in Touch
 <div align="center">
@@ -168,9 +169,7 @@
 </div>
 
 </td>
-</tr>
 </table>
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
