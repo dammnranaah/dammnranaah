@@ -30,7 +30,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=435&lines=Building+the+Web+of+Tomorrow+%F0%9F%8C%90;Turning+Coffee+into+Code+%E2%98%95;Making+Ideas+Come+Alive+%F0%9F%92%A1" alt="Typing SVG"/>
 </p>
 
-<div align="center">
 <div align="left" style="margin: 20px 0">
   <details open>
     <summary><b>Core Competencies</b></summary>
@@ -42,7 +41,6 @@
     </p>
   </details>
 
-<div align="center">
   <details open>
     <summary><b>Technical Stack</b></summary>
     <br>
@@ -60,10 +58,9 @@
       <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
     </p>
   </details>
-  
-<div align="center">
+
   <details open>
-    <summary><b><h4>Current Focus<h4></b></summary>
+    <summary><b>Current Focus</b></summary>
     <br>
     <p align="center">
       <img src="https://img.shields.io/badge/Learning-Web3_&_AI-A020F0?style=for-the-badge&logo=ethereum&logoColor=white"/>
@@ -94,7 +91,9 @@
 
 <table border="0" align="center">
 <tr border="0">
-<td width="50%" align="center"> ## Skills & Tools
+<td align="center">
+
+## Skills & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,mongodb,mysql,docker,git,vscode,figma,aws&perline=6&theme=dark" />
   
@@ -109,6 +108,9 @@
 </div>
 
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/dammnranaah/">
@@ -124,8 +126,11 @@
     <img src="https://img.shields.io/badge/-Discord-A020F0?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
-  
+
 <div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
 ## GitHub Stats
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
@@ -139,7 +144,10 @@
 </div>
 
 <div align="center">
-## 🚀 Featured Projects
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## Featured Projects
 <div align="center">
   <a href="https://github.com/dammnranaah/Rana-development-Bot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dammnranaah&repo=Rana-development-Bot&theme=midnight-purple&bg_color=0D1117&hide_border=true"/>
@@ -148,9 +156,12 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dammnranaah&repo=SpeicalStats&theme=midnight-purple&bg_color=0D1117&hide_border=true"/>
   </a>
 </div>
-  
+
 <div align="center">
-## 📫 Get in Touch
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+</div>
+
+## Get in Touch
 <div align="center">
   <a href="mailto:contact.dammnranaah@gmail.com">
     <img src="https://img.shields.io/badge/Email-A020F0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
@@ -160,6 +171,12 @@
   </a>
 </div>
 
+</td>
+</tr>
+</table>
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&customColorList=12,2,30&section=footer" width="100%"/>
