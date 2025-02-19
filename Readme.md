@@ -1,87 +1,62 @@
-<h1 align="center">Rana Ahmed</h1>
-<h3 align="center">Developer | System Architect | Automation Enthusiast</h3>
+### Hi there, I'm **Rana Ahmed** 👋
+
+🚀 **Frontend Developer | Open-Source Enthusiast | Tech Lover**
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=dammnranaah&label=Profile%20Views&color=0e75b6&style=flat)
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=dammnranaah&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://github-profile-trophy.vercel.app/?username=dammnranaah&theme=onedark&margin-w=15&margin-h=15&no-frame=true" alt="Profile Trophies">
 </p>
 
----
+### 💻 About Me
 
-### 🚀 About Me  
-Passionately curious, always evolving, and pushing limits.  
-Specializing in **web development, automation, cloud infrastructure, and backend architecture**.  
-Fueled by **caffeine and an endless pursuit of knowledge**.  
-
-- 🔭 Currently working on **[Rana-Development-Bot](https://github.com/dammnranaah/Rana-development-Bot)**  
-- 👯 Open to collaborating on **[SpeicalStats](https://github.com/dammnranaah/SpeicalStats)**  
-- 🤝 Seeking help with **[Challenge-Plugin](https://github.com/dammnranaah/Challenge-Plugin)**  
-- 👨‍💻 All my projects are available at **[My Portfolio](https://rana.unitypvp.xyz)**  
-- 📫 Reach me at **contact.dammnranaah@gmail.com**  
+- 🔭 Currently working on **[Rana-development-Bot](https://github.com/dammnranaah/Rana-development-Bot)**
+- 👯 Looking to collaborate on **[SpeicalStats](https://github.com/dammnranaah/SpeicalStats)**
+- 🤝 Seeking help with **[Challenge-Plugin](https://github.com/dammnranaah/Challenge-Plugin)**
+- 👨‍💻 Check out my projects: [**My Portfolio**](https://rana.unitypvp.xyz)
+- 📫 Reach me at: **contact.dammnranaah@gmail.com**
 
 ---
 
-### 🛠 Tech Stack  
+### 🚀 Connect With Me
 
-#### **Languages**  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-
-#### **Frameworks & Libraries**  
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)
-![Flask](https://img.shields.io/badge/-Flask-000000?style=flat&logo=flask&logoColor=white)  
-
-#### **DevOps & Tools**  
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![CI/CD](https://img.shields.io/badge/-CI/CD-0A66C2?style=flat&logo=githubactions&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Cloud Hosting](https://img.shields.io/badge/-Cloud_Hosting-1572B6?style=flat&logo=googlecloud&logoColor=white)  
-
-#### **Specialties**  
-- Web Development & Backend Architecture  
-- Server Optimization & Hosting Solutions  
-- Automation & API Integrations  
-- Minecraft Configs & Discord Bot Development  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dammnranaah/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/flowstate_alt/)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@dammnranaah)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1139532286358978560)
 
 ---
 
-### 📡 Connect With Me  
-<p align="left">
-  <a href="https://dev.to/dammnranaah" target="blank"><img src="https://img.shields.io/badge/Dev.to-000000?style=flat&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
-  <a href="https://www.linkedin.com/in/dammnranaah/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/flowstate_alt/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://dribbble.com/dammnranaah" target="blank"><img src="https://img.shields.io/badge/Dribbble-EA4C89?style=flat&logo=dribbble&logoColor=white" alt="Dribbble" /></a>
-  <a href="https://hashnode.com/@dammnranaah" target="blank"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=flat&logo=hashnode&logoColor=white" alt="Hashnode" /></a>
-  <a href="https://www.youtube.com/@dammnranaah" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube" /></a>
-  <a href="https://discordapp.com/users/1139532286358978560" target="blank"><img src="https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white" alt="Discord" /></a>
-</p>
+### 🛠️ Tech Stack & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
-### 🎖 GitHub Stats  
+### 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dammnranaah&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dammnranaah&show_icons=true&theme=radical" height="160px">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dammnranaah&theme=radical" height="160px">
 </p>
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dammnranaah&theme=radical" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dammnranaah&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dammnranaah&layout=compact&theme=radical" height="160px">
 </p>
 
 ---
 
-### ☕ Support My Work  
-<a href="https://www.buymeacoffee.com/dammnranaah">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="Buy Me A Coffee" />
-</a>
+### ☕ Support Me
 
----
-
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/dammnranaah)
+[![Ko-Fi](https://img.shields.io/badge/Kofi-ff5f5f?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/dammnranaah)
