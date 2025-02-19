@@ -19,14 +19,19 @@
   ```python
   class Developer:
       def __init__(self):
+          # Personal Info 🎯
           self.name = "Rana Ahmed 👨‍💻"
           self.role = "Frontend Developer 🚀"
           self.location = "Digital Realm 🌍"
+          
+          # Core Strengths 💪
           self.knowledge_base = [
-              "Frontend Development",
-              "UI/UX Design",
-              "Web Architecture"
+              "Frontend Development ⚡",
+              "UI/UX Design 🎨",
+              "Web Architecture 🏗️"
           ]
+          
+          # Technical Arsenal ⚔️
           self.technical_skills = {
               "frontend": [
                   "React.js ⚛️",
@@ -44,10 +49,19 @@
                   "VSCode 💻"
               ]
           }
-      
+          
+          # Current Focus 🎯
+          self.currently = {
+              "learning": ["Web3 🌐", "AI Integration 🤖"],
+              "working_on": "Exciting Projects 🚀",
+              "available_for": "Collaboration 🤝"
+          }
+    
       def say_hi(self):
-          print("Thanks for dropping by! Let's create something amazing together! 🚀")
+          print("Thanks for dropping by! Let's create something amazing together! ✨")
+          print("Feel free to connect and explore collaborations! 🌟")
 
+  # Initialize Developer Instance
   me = Developer()
   me.say_hi()
   ```
