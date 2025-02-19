@@ -16,59 +16,54 @@
 <div align="left">
   <img align="right" width="400" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
   
-  ```typescript
-  interface Developer {
-    name: string;
-    title: string;
-    code: string[];
-    technologies: string[];
-    currentFocus: string;
-    learning: string[];
-    funFact: string;
-    dailyQuote: string;
-  }
+  ```python
+  class Developer:
+      def __init__(self):
+          self.name = "Rana Ahmed 👨‍💻"
+          self.role = "Frontend Developer 🚀"
+          self.location = "Digital Realm 🌍"
+          self.knowledge_base = [
+              "Frontend Development",
+              "UI/UX Design",
+              "Web Architecture"
+          ]
+          self.technical_skills = {
+              "frontend": [
+                  "React.js ⚛️",
+                  "Next.js 🔥",
+                  "Vue.js 💚"
+              ],
+              "backend": [
+                  "Node.js 💪",
+                  "Express.js 🛠️",
+                  "MongoDB 🍃"
+              ],
+              "tools": [
+                  "Docker 🐳",
+                  "Git 🔄",
+                  "VSCode 💻"
+              ]
+          }
+      
+      def say_hi(self):
+          print("Thanks for dropping by! Let's create something amazing together! 🚀")
 
-  const rana: Developer = {
-    name: "Rana Ahmed",
-    title: "Frontend Developer",
-    code: [
-      "TypeScript", 
-      "JavaScript", 
-      "React.js",
-      "Node.js",
-      "Python"
-    ],
-    technologies: {
-      frontEnd: {
-        js: ["React", "Next.js", "Vue"],
-        css: ["Tailwind", "Bootstrap", "Material UI"]
-      },
-      backEnd: {
-        js: ["Node", "Express"],
-        databases: ["MongoDB", "MySQL"]
-      },
-      devOps: ["Docker", "Nginx", "AWS"],
-      tools: ["Git", "GitHub", "VSCode"]
-    },
-    currentFocus: "Building scalable web applications",
-    learning: ["System Design", "AWS", "Microservices"],
-    funFact: "I debug with coffee ☕ and solve bugs with pizza 🍕",
-    dailyQuote: "Code is poetry in motion ✨"
-  };
+  me = Developer()
+  me.say_hi()
   ```
 </div>
 
 ## 🎯 Skills & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,mongodb,mysql,docker,git,vscode,figma,aws,python,vue&perline=8&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,mongodb,mysql,docker,git,vscode,figma,aws&perline=6&theme=dark" />
   
   <br/>
   
   <div style="background: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
-    ![JavaScript](https://img.shields.io/badge/JavaScript-⭐⭐⭐⭐⭐-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=282828)
-    ![TypeScript](https://img.shields.io/badge/TypeScript-⭐⭐⭐⭐⭐-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=282828)
-    ![React](https://img.shields.io/badge/React-⭐⭐⭐⭐⭐-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828)
-    ![Node.js](https://img.shields.io/badge/Node.js-⭐⭐⭐⭐-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=282828)
+    <img src="https://custom-icon-badges.demolab.com/badge/React.js-⭐⭐⭐⭐⭐-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1b27"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Next.js-⭐⭐⭐⭐⭐-000000?style=for-the-badge&logo=nextjs&logoColor=white&labelColor=1a1b27"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Node.js-⭐⭐⭐⭐-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=1a1b27"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-⭐⭐⭐⭐-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=1a1b27"/>
   </div>
 </div>
 
