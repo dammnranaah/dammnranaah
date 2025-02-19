@@ -151,16 +151,19 @@
   </a>
 </div>
 
-## ☕ Support My Work
 <div align="center">
-  <a href="https://www.buymeacoffee.com/dammnranaah">
-    <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-A020F0?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee"/>
-  </a>
-  <a href="https://ko-fi.com/dammnranaah">
-    <img src="https://img.shields.io/badge/Ko--fi-A020F0?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&customColorList=12,2,30&section=footer" width="100%"/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&customColorList=12,2,30&section=footer" width="100%"/>
+  <!-- Typing SVG -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+create!+%E2%9C%A8" alt="Typing SVG" />
+  </a>
 </div>
