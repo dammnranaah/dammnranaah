@@ -95,7 +95,6 @@
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dammnranaah&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&ring_color=A020F0&border_radius=10" alt="GitHub Stats"/>
-    
     <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=dammnranaah&theme=midnight-purple&hide_border=true&background=0D1117&ring=A020F0&border_radius=10" alt="GitHub Streak"/>
   </div>
 
