@@ -12,66 +12,68 @@
   </div>
 </div>
 
-<h1 align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
-</h1>
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-<table align="center" border="none">
-<tr border="none">
-<td width="55%" align="left">
+<table border="0" align="center">
+<tr border="0">
+<td width="50%" align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A020F0&center=false&vCenter=true&repeat=true&width=435&lines=Hey%2C+I'm+Rana+Ahmed+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=435&lines=Hey%2C+I'm+Rana+Ahmed+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG"/>
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=A020F0&center=false&vCenter=true&repeat=true&width=435&lines=Building+the+Web+of+Tomorrow+%F0%9F%8C%90;Turning+Coffee+into+Code+%E2%98%95;Making+Ideas+Come+Alive+%F0%9F%92%A1" alt="Typing SVG"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=435&lines=Building+the+Web+of+Tomorrow+%F0%9F%8C%90;Turning+Coffee+into+Code+%E2%98%95;Making+Ideas+Come+Alive+%F0%9F%92%A1" alt="Typing SVG"/>
+</p>
 
-<br>
-
-<details open>
-  <summary><b>⚡ Core Competencies</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Frontend_Development-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
-    <img src="https://img.shields.io/badge/UI/UX_Design-A020F0?style=for-the-badge&logo=figma&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Web_Architecture-A020F0?style=for-the-badge&logo=webpack&logoColor=white"/>
-  </p>
-</details>
-
-<details open>
-  <summary><b>🛠️ Technical Stack</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-    <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+<div align="left" style="margin: 20px 0">
+  <details open>
+    <summary><b>⚡ Core Competencies</b></summary>
     <br>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-    <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-    <br>
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-  </p>
-</details>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Frontend_Development-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
+      <img src="https://img.shields.io/badge/UI/UX_Design-A020F0?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Web_Architecture-A020F0?style=for-the-badge&logo=webpack&logoColor=white"/>
+    </p>
+  </details>
 
-<details open>
-  <summary><b>🎯 Current Focus</b></summary>
-  <br>
-  <p align="left">
-    <img src="https://img.shields.io/badge/Learning-Web3_&_AI-A020F0?style=for-the-badge&logo=ethereum&logoColor=white"/>
-    <br><br>
-    <img src="https://img.shields.io/badge/Working_On-Exciting_Projects-A020F0?style=for-the-badge&logo=github&logoColor=white"/>
-    <br><br>
-    <img src="https://img.shields.io/badge/Open_For-Collaboration-A020F0?style=for-the-badge&logo=handshake&logoColor=white"/>
-  </p>
-</details>
+  <details open>
+    <summary><b>🛠️ Technical Stack</b></summary>
+    <br>
+    <p align="center">
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+    </p>
+  </details>
+
+  <details open>
+    <summary><b>🎯 Current Focus</b></summary>
+    <br>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Learning-Web3_&_AI-A020F0?style=for-the-badge&logo=ethereum&logoColor=white"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Working_On-Exciting_Projects-A020F0?style=for-the-badge&logo=github&logoColor=white"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Open_For-Collaboration-A020F0?style=for-the-badge&logo=handshake&logoColor=white"/>
+    </p>
+  </details>
+</div>
 
 </td>
-<td width="45%" align="center">
+<td width="50%" align="center">
 
 <img align="center" alt="Coding" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%">
 
