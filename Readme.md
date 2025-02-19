@@ -12,20 +12,23 @@
   </div>
 </div>
 
-## About Me
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
+
 <div align="left">
-  <img align="right" width="400" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+  <img align="right" width="400" height="300" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
   <div align="left">
-    <h3>
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=435&lines=Rana+Ahmed;Frontend+Developer" alt="Typing SVG" />
-    </h3>
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A020F0&center=false&vCenter=true&repeat=true&width=435&lines=Rana+Ahmed;Frontend+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
+    </a>
   </div>
 
-  <br>
+  <div align="left" style="margin-top: 20px;">
+    <img align="right" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="350" height="250" alt="Coding Animation"/>
+  </div>
 
-  <details>
-    <summary><b>Core Competencies</b></summary>
+  <details open>
+    <summary><b>⚡ Core Competencies</b></summary>
     <br>
     <div align="left">
       <img src="https://img.shields.io/badge/Frontend_Development-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
@@ -34,8 +37,8 @@
     </div>
   </details>
 
-  <details>
-    <summary><b>Technical Stack</b></summary>
+  <details open>
+    <summary><b>🛠️ Technical Stack</b></summary>
     <br>
     <div align="left">
       <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -52,8 +55,8 @@
     </div>
   </details>
 
-  <details>
-    <summary><b>Current Endeavors</b></summary>
+  <details open>
+    <summary><b>🎯 Current Focus</b></summary>
     <br>
     <div align="left">
       <img src="https://img.shields.io/badge/Learning-Web3_&_AI-A020F0?style=for-the-badge&logo=ethereum&logoColor=white"/>
@@ -68,10 +71,6 @@
 
   <div align="left">
     <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="400"/>
-  </div>
-
-  <div align="center">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
   </div>
 </div>
 
