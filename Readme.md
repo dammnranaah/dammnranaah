@@ -154,5 +154,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&customColorList=12,2,30&section=footer" width="100%"/>
