@@ -20,62 +20,65 @@
 
 <table border="0" align="center">
 <tr border="0">
-<td width="100%" align="center">
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=435&lines=Hey%2C+I'm+Rana+Ahmed+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG"/>
-  </p>
+<td width="50%" align="center">
 
-  <p align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=435&lines=Building+the+Web+of+Tomorrow+%F0%9F%8C%90;Turning+Coffee+into+Code+%E2%98%95;Making+Ideas+Come+Alive+%F0%9F%92%A1" alt="Typing SVG"/>
-  </p>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=435&lines=Hey%2C+I'm+Rana+Ahmed+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG"/>
+</p>
 
-  <div style="display: flex; justify-content: space-between; margin: 20px 0; gap: 20px;">
-    <div style="flex: 1; background: #1a1b27; padding: 20px; border-radius: 10px;">
-      <details open>
-        <summary style="color: #A020F0;"><b>Core Competencies</b></summary>
-        <br>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Frontend_Development-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
-          <img src="https://img.shields.io/badge/UI/UX_Design-A020F0?style=for-the-badge&logo=figma&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Web_Architecture-A020F0?style=for-the-badge&logo=webpack&logoColor=white"/>
-        </p>
-      </details>
-    </div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=435&lines=Building+the+Web+of+Tomorrow+%F0%9F%8C%90;Turning+Coffee+into+Code+%E2%98%95;Making+Ideas+Come+Alive+%F0%9F%92%A1" alt="Typing SVG"/>
+</p>
 
-    <div style="flex: 1; background: #1a1b27; padding: 20px; border-radius: 10px;">
-      <details open>
-        <summary style="color: #A020F0;"><b>Technical Stack</b></summary>
-        <br>
-        <p align="center">
-          <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-          <br><br>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        </p>
-      </details>
-    </div>
+<div align="left" style="margin: 20px 0">
+  <details open>
+    <summary><b>Core Competencies</b></summary>
+    <br>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Frontend_Development-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
+      <img src="https://img.shields.io/badge/UI/UX_Design-A020F0?style=for-the-badge&logo=figma&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Web_Architecture-A020F0?style=for-the-badge&logo=webpack&logoColor=white"/>
+    </p>
+  </details>
 
-    <div style="flex: 1; background: #1a1b27; padding: 20px; border-radius: 10px;">
-      <details open>
-        <summary style="color: #A020F0;"><b>Current Focus</b></summary>
-        <br>
-        <p align="center">
-          <img src="https://img.shields.io/badge/Learning-Web3_&_AI-A020F0?style=for-the-badge&logo=ethereum&logoColor=white"/>
-          <br><br>
-          <img src="https://img.shields.io/badge/Working_On-Exciting_Projects-A020F0?style=for-the-badge&logo=github&logoColor=white"/>
-          <br><br>
-          <img src="https://img.shields.io/badge/Open_For-Collaboration-A020F0?style=for-the-badge&logo=handshake&logoColor=white"/>
-        </p>
-      </details>
-    </div>
-  </div>
+  <details open>
+    <summary><b>Technical Stack</b></summary>
+    <br>
+    <p align="center">
+      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+    </p>
+  </details>
 
-  <div style="background: #1a1b27; padding: 20px; border-radius: 10px; margin-top: 20px;">
-    <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60%" alt="Coding"/>
-  </div>
+  <details open>
+    <summary><b>Current Focus</b></summary>
+    <br>
+    <p align="center">
+      <img src="https://img.shields.io/badge/Learning-Web3_&_AI-A020F0?style=for-the-badge&logo=ethereum&logoColor=white"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Working_On-Exciting_Projects-A020F0?style=for-the-badge&logo=github&logoColor=white"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/Open_For-Collaboration-A020F0?style=for-the-badge&logo=handshake&logoColor=white"/>
+    </p>
+  </details>
+</div>
+
+</td>
+<td width="50%" align="center">
+
+<br><br>
+
+<img align="center" alt="Coding" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%">
+
 </td>
 </tr>
 </table>
