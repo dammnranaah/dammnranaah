@@ -1,4 +1,4 @@
-<div align="center">
+# <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12&text=Rana%20Ahmed&fontSize=90&fontAlignY=40&desc=Frontend%20Developer%20|%20Open-Source%20Enthusiast&descSize=25&descAlignY=65&animation=fadeIn" width="100%"/>
 
   <a href="https://git.io/typing-svg">
@@ -15,7 +15,7 @@
 
   <table border="0" align="center">
     <tr border="0">
-      <td width="50%" align="center">
+      <td width="50%" align="center" style="background: #1a1b27; border-radius: 10px; padding: 20px;">
         <p align="center">
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=435&lines=Hey%2C+I'm+Rana+Ahmed+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG"/>
         </p>
@@ -24,9 +24,9 @@
           <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=435&lines=Building+the+Web+of+Tomorrow+%F0%9F%8C%90;Turning+Coffee+into+Code+%E2%98%95;Making+Ideas+Come+Alive+%F0%9F%92%A1" alt="Typing SVG"/>
         </p>
 
-        <div align="left" style="margin: 20px 0">
+        <div style="background: #0D1117; padding: 20px; border-radius: 10px; margin: 20px 0;">
           <details open>
-            <summary><b>Core Competencies</b></summary>
+            <summary style="color: #A020F0;"><b>Core Competencies</b></summary>
             <br>
             <p align="center">
               <img src="https://img.shields.io/badge/Frontend_Development-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
@@ -36,7 +36,7 @@
           </details>
 
           <details open>
-            <summary><b>Technical Stack</b></summary>
+            <summary style="color: #A020F0;"><b>Technical Stack</b></summary>
             <br>
             <p align="center">
               <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -54,7 +54,7 @@
           </details>
 
           <details open>
-            <summary><b>Current Focus</b></summary>
+            <summary style="color: #A020F0;"><b>Current Focus</b></summary>
             <br>
             <p align="center">
               <img src="https://img.shields.io/badge/Learning-Web3_&_AI-A020F0?style=for-the-badge&logo=ethereum&logoColor=white"/>
@@ -66,18 +66,16 @@
           </details>
         </div>
       </td>
-      <td width="50%" align="center">
-        <div style="margin-bottom: 20px;">
-          <img src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
+      <td width="50%" align="center" style="background: #1a1b27; border-radius: 10px; padding: 20px;">
+        <div style="background: #0D1117; padding: 20px; border-radius: 10px; margin-bottom: 20px;">
+          <img src="https://github.com/dammnranaah/dammnranaah/blob/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake Animation"/>
         </div>
-        <br>
-        <div style="margin-top: 20px;">
+        <div style="background: #0D1117; padding: 20px; border-radius: 10px; margin-top: 20px;">
           <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="100%" alt="Coding"/>
         </div>
       </td>
     </tr>
   </table>
-</div>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
