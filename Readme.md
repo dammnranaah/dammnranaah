@@ -15,56 +15,58 @@
 ## 🌟 About Me
 <div align="left">
   <img align="right" width="400" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
-  
-  ```python
-  class Developer:
-      def __init__(self):
-          # Personal Info 🎯
-          self.name = "Rana Ahmed 👨‍💻"
-          self.role = "Frontend Developer 🚀"
-          self.location = "Digital Realm 🌍"
-          
-          # Core Strengths 💪
-          self.knowledge_base = [
-              "Frontend Development ⚡",
-              "UI/UX Design 🎨",
-              "Web Architecture 🏗️"
-          ]
-          
-          # Technical Arsenal ⚔️
-          self.technical_skills = {
-              "frontend": [
-                  "React.js ⚛️",
-                  "Next.js 🔥",
-                  "Vue.js 💚"
-              ],
-              "backend": [
-                  "Node.js 💪",
-                  "Express.js 🛠️",
-                  "MongoDB 🍃"
-              ],
-              "tools": [
-                  "Docker 🐳",
-                  "Git 🔄",
-                  "VSCode 💻"
-              ]
-          }
-          
-          # Current Focus 🎯
-          self.currently = {
-              "learning": ["Web3 🌐", "AI Integration 🤖"],
-              "working_on": "Exciting Projects 🚀",
-              "available_for": "Collaboration 🤝"
-          }
-    
-      def say_hi(self):
-          print("Thanks for dropping by! Let's create something amazing together! ✨")
-          print("Feel free to connect and explore collaborations! 🌟")
 
-  # Initialize Developer Instance
-  me = Developer()
-  me.say_hi()
-  ```
+  <div style="background: #1a1b27; padding: 20px; border-radius: 10px; width: 50%; color: #A020F0;">
+    <h3>👨‍💻 Rana Ahmed</h3>
+    <p>🚀 Frontend Developer | 🌍 Digital Realm</p>
+    
+    <h4>💪 Core Strengths</h4>
+    <ul>
+      <li>⚡ Frontend Development</li>
+      <li>🎨 UI/UX Design</li>
+      <li>🏗️ Web Architecture</li>
+    </ul>
+
+    <h4>⚔️ Technical Arsenal</h4>
+    <details>
+      <summary>Frontend 🎨</summary>
+      <ul>
+        <li>⚛️ React.js</li>
+        <li>🔥 Next.js</li>
+        <li>💚 Vue.js</li>
+      </ul>
+    </details>
+    
+    <details>
+      <summary>Backend 💻</summary>
+      <ul>
+        <li>💪 Node.js</li>
+        <li>🛠️ Express.js</li>
+        <li>🍃 MongoDB</li>
+      </ul>
+    </details>
+    
+    <details>
+      <summary>Tools 🛠️</summary>
+      <ul>
+        <li>🐳 Docker</li>
+        <li>🔄 Git</li>
+        <li>💻 VSCode</li>
+      </ul>
+    </details>
+
+    <h4>🎯 Current Focus</h4>
+    <ul>
+      <li>📚 Learning: Web3 🌐 | AI Integration 🤖</li>
+      <li>💼 Working on: Exciting Projects 🚀</li>
+      <li>🤝 Available for: Collaboration</li>
+    </ul>
+
+    <blockquote>
+      <p>✨ Thanks for dropping by! Let's create something amazing together!</p>
+      <p>🌟 Feel free to connect and explore collaborations!</p>
+    </blockquote>
+  </div>
 
   <div align="center">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
