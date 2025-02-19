@@ -14,16 +14,13 @@
 
 <img align="right" height="240" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-```js
 const rana = {
-    pronouns: "He" | "Him",
+    pronouns: ["He", "Him"], // Changed to an array
     skills: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "TailwindCSS"],
     currentFocus: "Frontend Development",
     funFact: "I can code for hours without realizing it's already dawn!"
 };
-```
 
----
 
 ## 🌐 Connect With Me
 
