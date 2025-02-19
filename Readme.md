@@ -63,7 +63,7 @@
   
 <div align="center">
   <details open>
-    <summary><b><h1>Current Focus<h1></b></summary>
+    <summary><b><h4>Current Focus<h4></b></summary>
     <br>
     <p align="center">
       <img src="https://img.shields.io/badge/Learning-Web3_&_AI-A020F0?style=for-the-badge&logo=ethereum&logoColor=white"/>
