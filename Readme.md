@@ -17,25 +17,59 @@
   <img align="right" width="400" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
   
   ```typescript
-  const rana = {
-    code: ["JavaScript", "TypeScript", "React", "Node.js"],
-    currentFocus: "Building innovative web solutions",
-    learning: ["System Design", "Advanced React Patterns"],
-    funFact: "I debug with coffee ☕",
-    dailyQuote: "Code is poetry in motion"
+  interface Developer {
+    name: string;
+    title: string;
+    code: string[];
+    technologies: string[];
+    currentFocus: string;
+    learning: string[];
+    funFact: string;
+    dailyQuote: string;
+  }
+
+  const rana: Developer = {
+    name: "Rana Ahmed",
+    title: "Frontend Developer",
+    code: [
+      "TypeScript", 
+      "JavaScript", 
+      "React.js",
+      "Node.js",
+      "Python"
+    ],
+    technologies: {
+      frontEnd: {
+        js: ["React", "Next.js", "Vue"],
+        css: ["Tailwind", "Bootstrap", "Material UI"]
+      },
+      backEnd: {
+        js: ["Node", "Express"],
+        databases: ["MongoDB", "MySQL"]
+      },
+      devOps: ["Docker", "Nginx", "AWS"],
+      tools: ["Git", "GitHub", "VSCode"]
+    },
+    currentFocus: "Building scalable web applications",
+    learning: ["System Design", "AWS", "Microservices"],
+    funFact: "I debug with coffee ☕ and solve bugs with pizza 🍕",
+    dailyQuote: "Code is poetry in motion ✨"
   };
   ```
 </div>
 
 ## 🎯 Skills & Tools
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,mongodb,mysql,docker,git,vscode,figma&perline=7&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,express,tailwind,mongodb,mysql,docker,git,vscode,figma,aws,python,vue&perline=8&theme=dark" />
   
   <br/>
   
-  ![JavaScript](https://img.shields.io/badge/JavaScript-★★★★★-F7DF1E?style=flat-square&logo=javascript&logoColor=F7DF1E&labelColor=282828)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-★★★★☆-3178C6?style=flat-square&logo=typescript&logoColor=3178C6&labelColor=282828)
-  ![React](https://img.shields.io/badge/React-★★★★★-61DAFB?style=flat-square&logo=react&logoColor=61DAFB&labelColor=282828)
+  <div style="background: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
+    ![JavaScript](https://img.shields.io/badge/JavaScript-⭐⭐⭐⭐⭐-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=282828)
+    ![TypeScript](https://img.shields.io/badge/TypeScript-⭐⭐⭐⭐⭐-3178C6?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=282828)
+    ![React](https://img.shields.io/badge/React-⭐⭐⭐⭐⭐-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=282828)
+    ![Node.js](https://img.shields.io/badge/Node.js-⭐⭐⭐⭐-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=282828)
+  </div>
 </div>
 
 ## 🌐 Connect With Me
@@ -56,13 +90,15 @@
 
 ## 📊 GitHub Stats
 <div align="center">
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dammnranaah&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&ring_color=A020F0" alt="GitHub Stats"/>
-  
-  <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=dammnranaah&theme=midnight-purple&hide_border=true&background=0D1117&ring=A020F0" alt="GitHub Streak"/>
+  <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dammnranaah&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&ring_color=A020F0&border_radius=10" alt="GitHub Stats"/>
+    
+    <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=dammnranaah&theme=midnight-purple&hide_border=true&background=0D1117&ring=A020F0&border_radius=10" alt="GitHub Streak"/>
+  </div>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dammnranaah&bg_color=0D1117&color=A020F0&line=A020F0&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dammnranaah&bg_color=0D1117&color=A020F0&line=A020F0&point=FFFFFF&area=true&hide_border=true&radius=10" alt="Contribution Graph"/>
   
-  <img src="https://github-profile-trophy.vercel.app/?username=dammnranaah&theme=darkhub&no-frame=true&row=1&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=dammnranaah&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
 ## 🚀 Featured Projects
@@ -96,5 +132,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&customColorList=12&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&customColorList=12,2,30&section=footer" width="100%"/>
 </div>
