@@ -32,7 +32,7 @@
 
 <div align="left" style="margin: 20px 0">
   <details open>
-    <summary><b>⚡ Core Competencies</b></summary>
+    <summary><b>Core Competencies</b></summary>
     <br>
     <p align="center">
       <img src="https://img.shields.io/badge/Frontend_Development-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
@@ -42,7 +42,7 @@
   </details>
 
   <details open>
-    <summary><b>🛠️ Technical Stack</b></summary>
+    <summary><b>Technical Stack</b></summary>
     <br>
     <p align="center">
       <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -60,7 +60,7 @@
   </details>
 
   <details open>
-    <summary><b>🎯 Current Focus</b></summary>
+    <summary><b>Current Focus</b></summary>
     <br>
     <p align="center">
       <img src="https://img.shields.io/badge/Learning-Web3_&_AI-A020F0?style=for-the-badge&logo=ethereum&logoColor=white"/>
@@ -89,7 +89,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
-## 🎯 Skills & Tools
+## Skills & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,mongodb,mysql,docker,git,vscode,figma,aws&perline=6&theme=dark" />
   
@@ -103,7 +103,7 @@
   </div>
 </div>
 
-## 🌐 Connect With Me
+## Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/dammnranaah/">
     <img src="https://img.shields.io/badge/-LinkedIn-A020F0?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -119,7 +119,7 @@
   </a>
 </div>
 
-## 📊 GitHub Stats
+## GitHub Stats
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
     <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dammnranaah&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&ring_color=A020F0&border_radius=10" alt="GitHub Stats"/>
@@ -154,3 +154,5 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&customColorList=12,2,30&section=footer" width="100%"/>
