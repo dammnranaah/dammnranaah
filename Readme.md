@@ -16,57 +16,30 @@
 <div align="left">
   <img align="right" width="400" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
 
-  <div style="background: #1a1b27; padding: 20px; border-radius: 10px; width: 50%; color: #A020F0;">
-    <h3>👨‍💻 Rana Ahmed</h3>
-    <p>🚀 Frontend Developer | 🌍 Digital Realm</p>
-    
-    <h4>💪 Core Strengths</h4>
-    <ul>
-      <li>⚡ Frontend Development</li>
-      <li>🎨 UI/UX Design</li>
-      <li>🏗️ Web Architecture</li>
-    </ul>
+  ### 👨‍💻 Rana Ahmed
+  #### 🚀 Frontend Developer | 🌍 Digital Realm
 
-    <h4>⚔️ Technical Arsenal</h4>
-    <details>
-      <summary>Frontend 🎨</summary>
-      <ul>
-        <li>⚛️ React.js</li>
-        <li>🔥 Next.js</li>
-        <li>💚 Vue.js</li>
-      </ul>
-    </details>
-    
-    <details>
-      <summary>Backend 💻</summary>
-      <ul>
-        <li>💪 Node.js</li>
-        <li>🛠️ Express.js</li>
-        <li>🍃 MongoDB</li>
-      </ul>
-    </details>
-    
-    <details>
-      <summary>Tools 🛠️</summary>
-      <ul>
-        <li>🐳 Docker</li>
-        <li>🔄 Git</li>
-        <li>💻 VSCode</li>
-      </ul>
-    </details>
+  ### 💪 Core Strengths
+  - ⚡ Frontend Development
+  - 🎨 UI/UX Design
+  - 🏗️ Web Architecture
 
-    <h4>🎯 Current Focus</h4>
-    <ul>
-      <li>📚 Learning: Web3 🌐 | AI Integration 🤖</li>
-      <li>💼 Working on: Exciting Projects 🚀</li>
-      <li>🤝 Available for: Collaboration</li>
-    </ul>
+  ### ⚔️ Technical Arsenal
+  
+  | 🎨 Frontend | 💻 Backend | 🛠️ Tools |
+  |-------------|------------|-----------|
+  | ⚛️ React.js | 💪 Node.js | 🐳 Docker |
+  | 🔥 Next.js | 🛠️ Express.js | 🔄 Git |
+  | 💚 Vue.js | 🍃 MongoDB | 💻 VSCode |
 
-    <blockquote>
-      <p>✨ Thanks for dropping by! Let's create something amazing together!</p>
-      <p>🌟 Feel free to connect and explore collaborations!</p>
-    </blockquote>
-  </div>
+  ### 🎯 Current Focus
+  - 📚 Learning: Web3 🌐 & AI Integration 🤖
+  - 💼 Working on: Exciting Projects 🚀
+  - 🤝 Available for: Collaboration
+
+  > ✨ Thanks for dropping by! Let's create something amazing together!
+  > 
+  > 🌟 Feel free to connect and explore collaborations!
 
   <div align="center">
     <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300">
