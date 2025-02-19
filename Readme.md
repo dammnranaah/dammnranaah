@@ -8,11 +8,22 @@
   <img src="https://komarev.com/ghpvc/?username=dammnranaah&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
+---
 
 ## 💫 About Me
 
 <img align="right" height="240" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+```js
+const rana = {
+    pronouns: ["He", "Him"],
+    skills: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "TailwindCSS"],
+    currentFocus: "Frontend Development",
+    funFact: "I can code for hours without realizing it's already dawn!"
+};
+```
+
+---
 
 ## 🌐 Connect With Me
 
@@ -31,6 +42,7 @@
   </a>
 </div>
 
+---
 
 ## 💻 Tech Stack
 
@@ -38,6 +50,7 @@
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongodb,mysql,docker,git&theme=dark" />
 </div>
 
+---
 
 ## 📊 GitHub Stats
 
@@ -50,6 +63,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dammnranaah&bg_color=0d1117&color=00b8b5&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
+---
 
 ## 🎯 Current Projects
 
@@ -68,6 +82,7 @@
   </a>
 </div>
 
+---
 
 ## 📫 Get in Touch
 
@@ -80,6 +95,7 @@
   </a>
 </div>
 
+---
 
 ## ☕ Support My Work
 
