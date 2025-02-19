@@ -156,14 +156,3 @@
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&customColorList=12,2,30&section=footer" width="100%"/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
-</div>
-
-<div align="center">
-  <!-- Typing SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=A020F0&center=true&vCenter=true&width=435&lines=Thanks+for+visiting!+%F0%9F%91%8B;Let's+connect+and+create!+%E2%9C%A8" alt="Typing SVG" />
-  </a>
-</div>
