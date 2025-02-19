@@ -20,21 +20,34 @@
 
 <img align="right" height="240" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### 👨‍💻 Professional Side
-```javascript
+### 👨‍�� Professional Side
+
+<div align="left">
+
+```js
+// My Developer Profile
 const rana = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "React", "Node.js"],
+    code: [
+        "JavaScript", 
+        "TypeScript", 
+        "React", 
+        "Node.js"
+    ],
     currentFocus: "Frontend Development",
     funFact: "I can code for hours without realizing it's already dawn!"
 };
 
-class AboutMe {
+// More About Me
+class Developer {
     constructor() {
         this.name = "Rana Ahmed";
         this.location = "Earth 🌍";
         this.currentJob = "Frontend Developer";
-        this.education = ["Self-Taught Developer", "Open Source Enthusiast"];
+        this.education = [
+            "Self-Taught Developer",
+            "Open Source Enthusiast"
+        ];
     }
     
     getGoals() {
@@ -44,8 +57,20 @@ class AboutMe {
             "Contribute to developer community"
         ];
     }
+
+    getCodingPowers() {
+        return {
+            frontend: ["React", "Next.js", "TailwindCSS"],
+            backend: ["Node.js", "Express"],
+            database: ["MongoDB", "MySQL"],
+            tools: ["Docker", "Git", "VS Code"],
+            architecture: ["SPA", "MVC", "REST API"]
+        };
+    }
 }
 ```
+
+</div>
 
 ## 🌐 Connect With Me
 
