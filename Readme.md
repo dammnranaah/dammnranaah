@@ -30,7 +30,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=435&lines=Building+the+Web+of+Tomorrow+%F0%9F%8C%90;Turning+Coffee+into+Code+%E2%98%95;Making+Ideas+Come+Alive+%F0%9F%92%A1" alt="Typing SVG"/>
 </p>
 
-<div align="left" style="margin: 20px 0">
+<div align="right" style="margin: 10px 0">
   <details open>
     <summary><b>Core Competencies</b></summary>
     <br>
