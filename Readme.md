@@ -156,10 +156,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dammnranaah&repo=SpeicalStats&theme=midnight-purple&bg_color=0D1117&hide_border=true"/>
   </a>
 </div>
-</tr>
 
 ## Get in Touch
-<div align="center">
   <a href="mailto:contact.dammnranaah@gmail.com">
     <img src="https://img.shields.io/badge/Email-A020F0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
@@ -167,6 +165,7 @@
     <img src="https://img.shields.io/badge/Portfolio-A020F0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
   </a>
 </div>
+</tr>
 
 </td>
 </table>
