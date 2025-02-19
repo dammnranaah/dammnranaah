@@ -14,12 +14,6 @@
 
 <img align="right" height="240" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-- 🚀 Frontend Developer passionate about creating interactive, user-friendly web experiences.
-- 🌍 Open-Source Enthusiast contributing to the developer community.
-- 💡 Always learning and exploring new technologies.
-- 🎯 My goal is to build impactful projects that solve real-world problems.
-- 🌱 Currently mastering **Next.js, TypeScript, and Web Performance Optimization**.
-
 ```js
 const rana = {
     pronouns: "He" | "Him",
