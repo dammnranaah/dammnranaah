@@ -60,7 +60,8 @@
       <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
     </p>
   </details>
-
+  
+<div align="center">
   <details open>
     <summary><b>Current Focus</b></summary>
     <br>
@@ -91,6 +92,7 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
+<div align="center">
 ## Skills & Tools
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,mongodb,mysql,docker,git,vscode,figma,aws&perline=6&theme=dark" />
@@ -105,6 +107,7 @@
   </div>
 </div>
 
+<div align="center">
 ## Connect With Me
 <div align="center">
   <a href="https://www.linkedin.com/in/dammnranaah/">
@@ -120,7 +123,8 @@
     <img src="https://img.shields.io/badge/-Discord-A020F0?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </div>
-
+  
+<div align="center">
 ## GitHub Stats
 <div align="center">
   <div style="display: flex; justify-content: center; gap: 10px; margin-bottom: 20px;">
@@ -133,6 +137,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=dammnranaah&theme=darkhub&no-frame=true&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies"/>
 </div>
 
+<div align="center">
 ## 🚀 Featured Projects
 <div align="center">
   <a href="https://github.com/dammnranaah/Rana-development-Bot">
@@ -142,7 +147,8 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dammnranaah&repo=SpeicalStats&theme=midnight-purple&bg_color=0D1117&hide_border=true"/>
   </a>
 </div>
-
+  
+<div align="center">
 ## 📫 Get in Touch
 <div align="center">
   <a href="mailto:contact.dammnranaah@gmail.com">
@@ -156,5 +162,3 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=shark&height=100&color=gradient&customColorList=12,2,30&section=footer" width="100%"/>
