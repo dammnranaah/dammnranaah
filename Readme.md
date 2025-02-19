@@ -157,7 +157,7 @@
   </a>
 </div>
 
-## Get in Touch
+<a><h1>Get in Touch</h1></a>
   <a href="mailto:contact.dammnranaah@gmail.com">
     <img src="https://img.shields.io/badge/Email-A020F0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
