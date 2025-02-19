@@ -1,4 +1,4 @@
-# <div align="center">
+<div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Rana%20Ahmed&fontSize=80&fontAlignY=35&animation=twinkling&desc=Frontend%20Developer%20|%20Open-Source%20Enthusiast&descAlignY=55" width="100%"/>
 </div>
 
@@ -14,19 +14,20 @@
 
 <img align="right" height="240" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
+- 🚀 Frontend Developer passionate about creating interactive, user-friendly web experiences.
+- 🌍 Open-Source Enthusiast contributing to the developer community.
+- 💡 Always learning and exploring new technologies.
+- 🎯 My goal is to build impactful projects that solve real-world problems.
+- 🌱 Currently mastering **Next.js, TypeScript, and Web Performance Optimization**.
+
 ```js
 const rana = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "React", "Node.js"],
+    skills: ["JavaScript", "TypeScript", "React", "Next.js", "Node.js", "TailwindCSS"],
     currentFocus: "Frontend Development",
     funFact: "I can code for hours without realizing it's already dawn!"
 };
 ```
-
-### 🌟 Goals
-- 🚀 Build impactful open-source projects
-- 🎯 Master new technologies
-- 🤝 Contribute to the developer community
 
 ---
 
@@ -52,7 +53,7 @@ const rana = {
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongodb,mysql,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongodb,mysql,docker,git&theme=dark" />
 </div>
 
 ---
@@ -78,6 +79,12 @@ const rana = {
   </a>
   <a href="https://github.com/dammnranaah/SpeicalStats">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=dammnranaah&repo=SpeicalStats&theme=radical&bg_color=0d1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/dammnranaah/NextJS-Blog">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dammnranaah&repo=NextJS-Blog&theme=radical&bg_color=0d1117&hide_border=true" />
+  </a>
+  <a href="https://github.com/dammnranaah/TailwindUI-Kit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=dammnranaah&repo=TailwindUI-Kit&theme=radical&bg_color=0d1117&hide_border=true" />
   </a>
 </div>
 
