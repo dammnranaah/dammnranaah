@@ -14,65 +14,62 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> About Me
 
-<div align="left">
-  <img align="right" width="400" height="300" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg" alt="Snake animation"/>
+<table align="center">
+  <tr border="none">
+    <td width="50%" align="left">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A020F0&center=false&vCenter=true&repeat=true&width=435&lines=Hey%2C+I'm+Rana+Ahmed+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG"/>
+      
+      <br/>
+      
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&color=A020F0&center=false&vCenter=true&repeat=true&width=435&lines=Building+the+Web+of+Tomorrow+%F0%9F%8C%90;Turning+Coffee+into+Code+%E2%98%95;Making+Ideas+Come+Alive+%F0%9F%92%A1" alt="Typing SVG"/>
 
-  <div align="left">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=A020F0&center=false&vCenter=true&repeat=true&width=435&lines=Rana+Ahmed;Frontend+Developer;Open+Source+Enthusiast" alt="Typing SVG" />
-    </a>
-  </div>
+      <details open>
+        <summary><b>⚡ Core Competencies</b></summary>
+        <br>
+        <div align="left">
+          <img src="https://img.shields.io/badge/Frontend_Development-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
+          <img src="https://img.shields.io/badge/UI/UX_Design-A020F0?style=for-the-badge&logo=figma&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Web_Architecture-A020F0?style=for-the-badge&logo=webpack&logoColor=white"/>
+        </div>
+      </details>
 
-  <div align="left" style="margin-top: 20px;">
-    <img align="right" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966" width="350" height="250" alt="Coding Animation"/>
-  </div>
+      <details open>
+        <summary><b>🛠️ Technical Stack</b></summary>
+        <br>
+        <div align="left">
+          <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+          <br>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+          <br>
+          <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+          <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+        </div>
+      </details>
 
-  <details open>
-    <summary><b>⚡ Core Competencies</b></summary>
-    <br>
-    <div align="left">
-      <img src="https://img.shields.io/badge/Frontend_Development-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
-      <img src="https://img.shields.io/badge/UI/UX_Design-A020F0?style=for-the-badge&logo=figma&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Web_Architecture-A020F0?style=for-the-badge&logo=webpack&logoColor=white"/>
-    </div>
-  </details>
-
-  <details open>
-    <summary><b>🛠️ Technical Stack</b></summary>
-    <br>
-    <div align="left">
-      <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-      <br>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-      <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-      <br>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-      <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
-    </div>
-  </details>
-
-  <details open>
-    <summary><b>🎯 Current Focus</b></summary>
-    <br>
-    <div align="left">
-      <img src="https://img.shields.io/badge/Learning-Web3_&_AI-A020F0?style=for-the-badge&logo=ethereum&logoColor=white"/>
-      <br>
-      <img src="https://img.shields.io/badge/Working_On-Exciting_Projects-A020F0?style=for-the-badge&logo=github&logoColor=white"/>
-      <br>
-      <img src="https://img.shields.io/badge/Open_For-Collaboration-A020F0?style=for-the-badge&logo=handshake&logoColor=white"/>
-    </div>
-  </details>
-
-  <br>
-
-  <div align="left">
-    <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" width="400"/>
-  </div>
-</div>
+      <details open>
+        <summary><b>🎯 Current Focus</b></summary>
+        <br>
+        <div align="left">
+          <img src="https://img.shields.io/badge/Learning-Web3_&_AI-A020F0?style=for-the-badge&logo=ethereum&logoColor=white"/>
+          <br>
+          <img src="https://img.shields.io/badge/Working_On-Exciting_Projects-A020F0?style=for-the-badge&logo=github&logoColor=white"/>
+          <br>
+          <img src="https://img.shields.io/badge/Open_For-Collaboration-A020F0?style=for-the-badge&logo=handshake&logoColor=white"/>
+        </div>
+      </details>
+    </td>
+    <td width="50%" align="center">
+      <img align="center" alt="Coding" width="450" src="https://raw.githubusercontent.com/trinib/trinib/snake/github-contribution-grid-snake-dark.svg">
+      <br/><br/>
+      <img align="center" alt="Coding" width="450" src="https://camo.githubusercontent.com/d1e9733ec79822bcadf8b9a1035840ee511e2f022fe9f652cc163db23dc171d3/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e676966">
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
