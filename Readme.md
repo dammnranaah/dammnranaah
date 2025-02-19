@@ -157,16 +157,15 @@
   </a>
 </div>
 
-<a><h1>Get in Touch</h1></a>
+## Get in Touch
   <a href="mailto:contact.dammnranaah@gmail.com">
     <img src="https://img.shields.io/badge/Email-A020F0?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://rana.unitypvp.xyz">
-    <img src="https://img.shields.io/badge/Portfolio-A020F0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
+  <div align="center">
+  <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg"/>
 </div>
-  </a>
+  <a href="https://rana.unitypvp.xyz">
+    <img src="https://img.shields.io/badge/Portfolio-A020F0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/> </a>
 </div>
 </tr>
 <div>
