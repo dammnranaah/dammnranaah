@@ -41,6 +41,7 @@
     </p>
   </details>
 
+<div align="center">
   <details open>
     <summary><b>Technical Stack</b></summary>
     <br>
