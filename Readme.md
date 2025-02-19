@@ -8,69 +8,27 @@
   <img src="https://komarev.com/ghpvc/?username=dammnranaah&label=Profile%20Views&color=6C63FF&style=for-the-badge" alt="Profile Views" />
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dammnranaah&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=15" alt="Profile Trophies" />
-</div>
-
-<br>
+---
 
 ## 💫 About Me
 
 <img align="right" height="240" width="380" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif"/>
 
-### 👨‍�� Professional Side
-
-<div align="left">
-
 ```js
-// My Developer Profile
 const rana = {
     pronouns: "He" | "Him",
-    code: [
-        "JavaScript", 
-        "TypeScript", 
-        "React", 
-        "Node.js"
-    ],
+    code: ["JavaScript", "TypeScript", "React", "Node.js"],
     currentFocus: "Frontend Development",
     funFact: "I can code for hours without realizing it's already dawn!"
 };
-
-// More About Me
-class Developer {
-    constructor() {
-        this.name = "Rana Ahmed";
-        this.location = "Earth 🌍";
-        this.currentJob = "Frontend Developer";
-        this.education = [
-            "Self-Taught Developer",
-            "Open Source Enthusiast"
-        ];
-    }
-    
-    getGoals() {
-        return [
-            "Create impactful open source projects",
-            "Master new technologies",
-            "Contribute to developer community"
-        ];
-    }
-
-    getCodingPowers() {
-        return {
-            frontend: ["React", "Next.js", "TailwindCSS"],
-            backend: ["Node.js", "Express"],
-            database: ["MongoDB", "MySQL"],
-            tools: ["Docker", "Git", "VS Code"],
-            architecture: ["SPA", "MVC", "REST API"]
-        };
-    }
-}
 ```
 
-</div>
+### 🌟 Goals
+- 🚀 Build impactful open-source projects
+- 🎯 Master new technologies
+- 🤝 Contribute to the developer community
+
+---
 
 ## 🌐 Connect With Me
 
@@ -89,13 +47,15 @@ class Developer {
   </a>
 </div>
 
+---
+
 ## 💻 Tech Stack
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,tailwind,mongodb,mysql,docker&theme=dark" />
 </div>
 
-<br>
+---
 
 ## 📊 GitHub Stats
 
@@ -104,11 +64,11 @@ class Developer {
   <img width="49%" height="195px" src="https://github-readme-streak-stats.herokuapp.com/?user=dammnranaah&theme=radical&background=0d1117&hide_border=true" alt="GitHub Streak" />
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=dammnranaah&bg_color=0d1117&color=00b8b5&line=6C63FF&point=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
+
+---
 
 ## 🎯 Current Projects
 
@@ -121,9 +81,10 @@ class Developer {
   </a>
 </div>
 
-<br>
+---
 
 ## 📫 Get in Touch
+
 <div align="center">
   <a href="mailto:contact.dammnranaah@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&color=black" alt="Email"/>
@@ -132,6 +93,8 @@ class Developer {
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white&color=black" alt="Portfolio"/>
   </a>
 </div>
+
+---
 
 ## ☕ Support My Work
 
