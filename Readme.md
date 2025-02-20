@@ -89,28 +89,19 @@
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-  <h2 align="center">
-    👋 Skills & Tools
-  </h2>
-
-  <div align="center">
-    <div style="background: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
-      <p align="center">
-        <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,mongodb&perline=6&theme=dark" />
-        <br>
-        <img src="https://skillicons.dev/icons?i=docker,git,vscode,figma,aws&perline=6&theme=dark" />
-      </p>
-    </div>
-
-    <div style="background: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
-      <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px;">
-        <img src="https://custom-icon-badges.demolab.com/badge/React.js-⭐⭐⭐⭐⭐-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1b27"/>
-        <img src="https://custom-icon-badges.demolab.com/badge/Next.js-⭐⭐⭐⭐⭐-000000?style=for-the-badge&logo=nextjs&logoColor=white&labelColor=1a1b27"/>
-        <img src="https://custom-icon-badges.demolab.com/badge/Node.js-⭐⭐⭐⭐-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=1a1b27"/>
-        <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-⭐⭐⭐⭐-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=1a1b27"/>
-      </div>
-    </div>
+## Skills & Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,express,mongodb,mysql,docker,git,vscode,figma,aws&perline=6&theme=dark" />
+  
+  <br/>
+  
+  <div style="background: #1a1b27; padding: 20px; border-radius: 10px; margin: 20px 0;">
+    <img src="https://custom-icon-badges.demolab.com/badge/React.js-⭐⭐⭐⭐⭐-61DAFB?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=1a1b27"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Next.js-⭐⭐⭐⭐⭐-000000?style=for-the-badge&logo=nextjs&logoColor=white&labelColor=1a1b27"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/Node.js-⭐⭐⭐⭐-339933?style=for-the-badge&logo=node.js&logoColor=339933&labelColor=1a1b27"/>
+    <img src="https://custom-icon-badges.demolab.com/badge/MongoDB-⭐⭐⭐⭐-47A248?style=for-the-badge&logo=mongodb&logoColor=47A248&labelColor=1a1b27"/>
   </div>
+</div>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
