@@ -216,10 +216,10 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
     <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/dammnranaah" />
   </a>
   <a href="https://ko-fi.com/kofi/dammnranaah">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kofi/dammnranaah" />
+    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="" width="210" alt="kofi/dammnranaah" />
   </a>
   <a href="https://discord.gg/etNxAfPHbs">
-    <img align="left" src="https://images-ext-1.discordapp.net/external/s-c5qlKntkjGqCuNB7UCgVoe349krAsLVBHoJtS2hhg/https/cdn.discordapp.com/icons/1339361200479404042/23b0ebca0ac90e6782cca293a7f63424.png?format=webp&quality=lossless&width=115&height=50" height="50" width="50" alt="Join our Discord" />
+    <img align="left" src="https://images-ext-1.discordapp.net/external/s-c5qlKntkjGqCuNB7UCgVoe349krAsLVBHoJtS2hhg/https/cdn.discordapp.com/icons/1339361200479404042/23b0ebca0ac90e6782cca293a7f63424.png?format=webp&quality=lossless&width=115&height=50" height="80" width="90" alt="Join our Discord" />
   </a>
 </p>
 <br><br>
