@@ -22,54 +22,42 @@
   </h2>
 </div>
 
-<div align="center" style="background: rgba(76, 219, 255, 0.05); padding: 20px; border-radius: 10px; margin: 20px 0; border: 1px solid rgba(76, 219, 255, 0.1);">
-  <div style="display: flex; align-items: center; justify-content: space-between;">
-    <div style="width: 55%; text-align: left;">
-      <h3 style="color: #4CDBFF; font-size: 28px; margin-bottom: 20px;">
-        👋 Hey There! I'm <span style="background: linear-gradient(120deg, #4CDBFF, #B4F1FF); -webkit-background-clip: text; color: transparent;">Rana Ahmed</span>
-      </h3> 
-      <p style="font-size: 18px; margin-bottom: 25px;">
-        <strong style="color: #4CDBFF;">🚀 Frontend Architect & Digital Craftsman</strong><br/>
-        Transforming ideas into elegant, user-centric experiences
-      </p>
-      <div style="margin-bottom: 25px;">
-        <h4 style="color: #4CDBFF; font-size: 20px;">💫 What Sets Me Apart:</h4>
-        <ul style="list-style: none; padding: 0;">
-          <li style="margin: 10px 0;">
-            <img src="https://custom-icon-badges.demolab.com/badge/🎨_UI/UX_Specialist-4CDBFF?style=flat-square&logoColor=white"/> 
-            Creating pixel-perfect, intuitive interfaces
-          </li>
-          <li style="margin: 10px 0;">
-            <img src="https://custom-icon-badges.demolab.com/badge/🔮_Innovation_Driver-4CDBFF?style=flat-square&logoColor=white"/>
-            Pushing boundaries in web technologies
-          </li>
-          <li style="margin: 10px 0;">
-            <img src="https://custom-icon-badges.demolab.com/badge/⚡_Performance_Optimizer-4CDBFF?style=flat-square&logoColor=white"/>
-            Crafting lightning-fast applications
-          </li>
-        </ul>
-      </div>
-      <div>
-        <h4 style="color: #4CDBFF; font-size: 20px;">🎯 Current Endeavors:</h4>
-        <ul style="list-style: none; padding: 0;">
-          <li style="margin: 10px 0;">
-            <img src="https://custom-icon-badges.demolab.com/badge/🔍_Exploring-Web3_&_AI-4CDBFF?style=flat-square&logoColor=white"/>
-          </li>
-          <li style="margin: 10px 0;">
-            <img src="https://custom-icon-badges.demolab.com/badge/🚀_Building-Next_Gen_Apps-4CDBFF?style=flat-square&logoColor=white"/>
-          </li>
-          <li style="margin: 10px 0;">
-            <img src="https://custom-icon-badges.demolab.com/badge/🤝_Leading-Open_Source-4CDBFF?style=flat-square&logoColor=white"/>
-          </li>
-        </ul>
-      </div>
+  <table align="center">
+    <tr>
+      <td align="center" width="30%">
+        <h3>🔹 Core Competencies</h3>
+        <img src="https://img.shields.io/badge/FRONTEND_DEVELOPMENT-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/UI/UX_DESIGN-A020F0?style=for-the-badge&logo=figma&logoColor=white"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/WEB_ARCHITECTURE-A020F0?style=for-the-badge&logo=webpack&logoColor=white"/>
+      </td>
+      <td align="center" width="35%">
+        <h3>🔹 Technical Stack</h3>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </td>
+      <td align="center" width="35%">
+        <h3>🔹 Current Focus</h3>
+        <img src="https://img.shields.io/badge/🎓_LEARNING-WEB3_&_AI-A020F0?style=for-the-badge"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/🚀_WORKING_ON-EXCITING_PROJECTS-A020F0?style=for-the-badge"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/🤝_OPEN_FOR-COLLABORATION-A020F0?style=for-the-badge"/>
+      </td>
+    </tr>
+  </table>
     </div>
     <div style="width: 40%;">
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 20px; box-shadow: 0 0 20px rgba(76, 219, 255, 0.3);"/>
     </div>
   </div>
 </div>
-
 <br/>
 
 <div align="center">
