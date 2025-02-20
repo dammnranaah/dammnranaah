@@ -199,5 +199,6 @@
   </div>
 </div>  
   <div style="background: rgba(76, 219, 255, 0.05); padding: 10px; border-radius: 10px; margin: 20px 0; display: inline-block;">
+    <img src="https://profile-counter.glitch.me/dammnranaah/count.svg" height="30"/>
   </div>
 </div>
