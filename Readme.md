@@ -75,9 +75,9 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
 
   <table style="width: 100%; border-collapse: separate; border-spacing: 0 15px;">
     <tr>
-      <th style="color: #4CDBFF; font-size: 20px; padding: 15px;">🎨 Frontend Mastery</th>
-      <th style="color: #4CDBFF; font-size: 20px; padding: 15px;">⚙️ Backend Prowess</th>
-      <th style="color: #4CDBFF; font-size: 20px; padding: 15px;">🛠️ DevOps Arsenal</th>
+      <th style="color: #4CDBFF; font-size: 20px; padding: 15px;"> Frontend Mastery</th>
+      <th style="color: #4CDBFF; font-size: 20px; padding: 15px;"> Backend Prowess</th>
+      <th style="color: #4CDBFF; font-size: 20px; padding: 15px;"> DevOps Arsenal</th>
     </tr>
     <tr align="center">
       <td style="padding: 10px;">
@@ -191,7 +191,7 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
     <a href="https://www.youtube.com/@dammnranaah" target="_blank">
       <img src="https://img.shields.io/badge/YouTube-4CDBFF?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
     </a>
-    <a href="https://discord.gg/your-discord-invite" target="_blank">
+    <a href="https://discord.gg/etNxAfPHbs" target="_blank">
       <img src="https://img.shields.io/badge/Discord-4CDBFF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
   </div>
