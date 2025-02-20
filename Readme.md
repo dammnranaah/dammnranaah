@@ -1,16 +1,62 @@
-<div align="center">
+# <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12&text=Rana%20Ahmed&fontSize=90&fontAlignY=40&desc=Frontend%20Developer%20|%20Open-Source%20Enthusiast&descSize=25&descAlignY=65&animation=fadeIn" width="100%"/>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+Digital+Experiences+🚀;Code+%2B+Coffee+%3D+Magic+✨" alt="Typing SVG" />
-  </a>
+  <div style="background: linear-gradient(45deg, #1a1b27, #0D1117); padding: 30px; border-radius: 20px; margin: 20px 0;">
+    <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+Digital+Experiences+🚀;Code+%2B+Coffee+%3D+Magic+✨" alt="Typing SVG" />
+    </a>
 
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=dammnranaah&style=for-the-badge&color=A020F0" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/dammnranaah?style=for-the-badge&color=A020F0" alt="Followers"/>
-    <img src="https://img.shields.io/github/stars/dammnranaah?style=for-the-badge&color=A020F0" alt="Stars"/>
+    <div style="margin: 20px 0;">
+      <img src="https://komarev.com/ghpvc/?username=dammnranaah&style=for-the-badge&color=A020F0" alt="Profile Views" />
+      <img src="https://img.shields.io/github/followers/dammnranaah?style=for-the-badge&color=A020F0" alt="Followers"/>
+      <img src="https://img.shields.io/github/stars/dammnranaah?style=for-the-badge&color=A020F0" alt="Stars"/>
+    </div>
   </div>
-</div>
+
+  <div style="background: linear-gradient(45deg, #1a1b27, #0D1117); padding: 30px; border-radius: 20px; margin: 20px 0;">
+    <h1 style="color: #A020F0; margin-bottom: 30px; font-size: 2.5em; text-shadow: 0 0 10px rgba(160, 32, 240, 0.5);">
+      <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"> About Me
+    </h1>
+
+    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
+      <div style="background: #0D1117; padding: 25px; border-radius: 15px; border: 1px solid rgba(160, 32, 240, 0.2); box-shadow: 0 0 20px rgba(160, 32, 240, 0.1);">
+        <h3 style="color: #A020F0; text-align: center; margin-bottom: 20px;">Core Competencies</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Frontend_Development-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
+          <img src="https://img.shields.io/badge/UI/UX_Design-A020F0?style=for-the-badge&logo=figma&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Web_Architecture-A020F0?style=for-the-badge&logo=webpack&logoColor=white"/>
+        </p>
+      </div>
+
+      <div style="background: #0D1117; padding: 25px; border-radius: 15px; border: 1px solid rgba(160, 32, 240, 0.2); box-shadow: 0 0 20px rgba(160, 32, 240, 0.1);">
+        <h3 style="color: #A020F0; text-align: center; margin-bottom: 20px;">Technical Stack</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+          <br><br>
+          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+          <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        </p>
+      </div>
+
+      <div style="background: #0D1117; padding: 25px; border-radius: 15px; border: 1px solid rgba(160, 32, 240, 0.2); box-shadow: 0 0 20px rgba(160, 32, 240, 0.1);">
+        <h3 style="color: #A020F0; text-align: center; margin-bottom: 20px;">Current Focus</h3>
+        <p align="center">
+          <img src="https://img.shields.io/badge/Learning-Web3_&_AI-A020F0?style=for-the-badge&logo=ethereum&logoColor=white"/>
+          <br><br>
+          <img src="https://img.shields.io/badge/Working_On-Exciting_Projects-A020F0?style=for-the-badge&logo=github&logoColor=white"/>
+          <br><br>
+          <img src="https://img.shields.io/badge/Open_For-Collaboration-A020F0?style=for-the-badge&logo=handshake&logoColor=white"/>
+        </p>
+      </div>
+    </div>
+
+    <div style="margin-top: 30px; text-align: center;">
+      <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="60%" style="border-radius: 15px; box-shadow: 0 0 30px rgba(160, 32, 240, 0.2);" alt="Coding"/>
+    </div>
+  </div>
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"> About Me
 
