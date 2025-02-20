@@ -21,18 +21,33 @@
 
 ---
 
+## 🔹 Current Focus
+- 🛠 Improving **Full-Stack Development** skills
+- 🔍 Exploring **AI & Web3 integrations**
+- 🚀 Contributing to **Open Source Projects**
+- 📚 Learning **advanced system design & scalability**
+
+---
+
 ## 🛠 Tech Stack & Skills
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,ts,nodejs,express,mongodb,mysql,docker,git,vscode,figma,aws&perline=6&theme=dark" />
 </div>
 
-### 🚀 Specialized In:
+### 🔹 Technical Stack
 - **Frontend Development** (React.js, Next.js, Vue.js, Tailwind CSS)
 - **UI/UX Design** (Figma, Webflow, Motion UI)
 - **Backend Development** (Node.js, Express, MongoDB, MySQL)
 - **DevOps & Cloud** (Docker, AWS, Firebase, CI/CD)
 - **Automation & APIs** (GraphQL, REST, Web Scraping)
+
+### 🔹 Core Competencies
+- 🚀 **Problem Solving & Debugging**
+- 🔥 **Performance Optimization**
+- 🎨 **Design-to-Code Implementation**
+- 🔄 **Agile & Team Collaboration**
+- 📌 **Version Control (Git & GitHub)**
 
 ---
 
