@@ -21,14 +21,6 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/>
   </h2>
 </div>
-
-# 👋 Hi there, I'm Rana Ahmed
-
-<div align="center">
-  <h3>Frontend Architect & Digital Innovation Specialist</h3>
-  <p>🚀 Transforming ideas into exceptional digital experiences</p>
-</div>
-
 ## 💫 About Me
 
 <div align="center">
@@ -36,7 +28,6 @@
 </div>
 
 Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Server management, automation, and PvP engineering with precision. Worked with elite creators and top gaming networks. Pioneering anti cheat technology, high-performance scripting, and performance optimization. Passion drives the grind Minecraft, Valorant, and GTA 5. Evolution drives us, building tomorrow one line of code at a time.
-
   <table align="center">
     <tr>
       <td align="center" width="30%">
