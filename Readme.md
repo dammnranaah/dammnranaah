@@ -16,18 +16,20 @@
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/> 
+    <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40px" height="40px"/> 
     <img src="https://custom-icon-badges.demolab.com/badge/-About%20Me-4CDBFF?style=for-the-badge&logoColor=white" height="35"/>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/>
+    <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40px" height="40px"/>
   </h2>
 </div>
 <div align="center">
+  <img align="right" alt="Coding" height="290" width="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div>
+
 Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Server management, automation, and PvP engineering with precision. Worked with elite creators and top gaming networks. Pioneering anti cheat technology, high-performance scripting, and performance optimization. Passion drives the grind Minecraft, Valorant, and GTA 5. Evolution drives us, building tomorrow one line of code at a time.
   <table align="center">
     <tr>
       <td align="center" width="30%">
-        <h3> Core Competencies</h3>
+        <h3>🔹 Core Competencies</h3>
         <img src="https://img.shields.io/badge/FRONTEND_DEVELOPMENT-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
         <br><br>
         <img src="https://img.shields.io/badge/UI/UX_DESIGN-A020F0?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -35,7 +37,7 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
         <img src="https://img.shields.io/badge/WEB_ARCHITECTURE-A020F0?style=for-the-badge&logo=webpack&logoColor=white"/>
       </td>
       <td align="center" width="35%">
-        <h3> Technical Stack</h3>
+        <h3>🔹 Technical Stack</h3>
         <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
@@ -45,7 +47,7 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
         <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
       </td>
       <td align="center" width="35%">
-        <h3> Current Focus</h3>
+        <h3>🔹 Current Focus</h3>
         <img src="https://img.shields.io/badge/🎓_LEARNING-WEB3_&_AI-A020F0?style=for-the-badge"/>
         <br><br>
         <img src="https://img.shields.io/badge/🚀_WORKING_ON-EXCITING_PROJECTS-A020F0?style=for-the-badge"/>
@@ -58,9 +60,9 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/>
+    <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40px" height="40px"/>
     <img src="https://custom-icon-badges.demolab.com/badge/-Tech%20Arsenal-4CDBFF?style=for-the-badge&logoColor=white" height="35"/>
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/>
+    <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40px" height="40px"/>
   </h2>
 </div>
 
@@ -115,9 +117,9 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" height="40px"/>
+    <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40px" height="40px"/>
     <img src="https://custom-icon-badges.demolab.com/badge/-Featured%20Projects-4CDBFF?style=for-the-badge&logoColor=white" height="35"/>
-    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" height="40px"/>
+    <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40px" height="40px"/>
   </h2>
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
@@ -144,9 +146,9 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" height="40px"/>
+    <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40px" height="40px"/>
     <img src="https://custom-icon-badges.demolab.com/badge/-GitHub%20Analytics-4CDBFF?style=for-the-badge&logoColor=white" height="35"/>
-    <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="40px" height="40px"/>
+    <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40px" height="40px"/>
   </h2>
 
   <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
@@ -159,9 +161,9 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px" height="40px"/>
+    <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40px" height="40px"/>
     <img src="https://custom-icon-badges.demolab.com/badge/-Let's%20Connect-4CDBFF?style=for-the-badge&logoColor=white" height="35"/>
-    <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px" height="40px"/>
+    <img src="https://camo.githubusercontent.com/d552948e7884c41fde2d32b9221d79f0df2076c7d824aaab954ca93f53d95884/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40px" height="40px"/>
   </h2>
 
   <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
