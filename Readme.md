@@ -22,7 +22,6 @@
   </h2>
 </div>
 <div align="center">
-  <img align="right" alt="Coding" height="290" width="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div>
 
 Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Server management, automation, and PvP engineering with precision. Worked with elite creators and top gaming networks. Pioneering anti cheat technology, high-performance scripting, and performance optimization. Passion drives the grind Minecraft, Valorant, and GTA 5. Evolution drives us, building tomorrow one line of code at a time.
@@ -122,12 +121,24 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
     <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="40px" height="40px"/>
   </h2>
 
-  <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap; margin: 30px 0;">
     <a href="https://github.com/dammnranaah/Rana-development-Bot" target="_blank">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=dammnranaah&repo=Rana-development-Bot&theme=radical&bg_color=0D1117&hide_border=true&title_color=4CDBFF&icon_color=4CDBFF"/>
     </a>
     <a href="https://github.com/dammnranaah/SpeicalStats" target="_blank">
       <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=dammnranaah&repo=SpeicalStats&theme=radical&bg_color=0D1117&hide_border=true&title_color=4CDBFF&icon_color=4CDBFF"/>
+    </a>
+    <a href="https://github.com/dammnranaah/Protfoilo---Html" target="_blank">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=dammnranaah&repo=Protfoilo---Html&theme=radical&bg_color=0D1117&hide_border=true&title_color=4CDBFF&icon_color=4CDBFF"/>
+    </a>
+    <a href="https://github.com/dammnranaah/MuiscPlugin" target="_blank">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=dammnranaah&repo=MuiscPlugin&theme=radical&bg_color=0D1117&hide_border=true&title_color=4CDBFF&icon_color=4CDBFF"/>
+    </a>
+    <a href="https://github.com/dammnranaah/Timekeeper" target="_blank">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=dammnranaah&repo=Timekeeper&theme=radical&bg_color=0D1117&hide_border=true&title_color=4CDBFF&icon_color=4CDBFF"/>
+    </a>
+    <a href="https://github.com/dammnranaah/CustomTreasureMap" target="_blank">
+      <img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=dammnranaah&repo=CustomTreasureMap&theme=radical&bg_color=0D1117&hide_border=true&title_color=4CDBFF&icon_color=4CDBFF"/>
     </a>
   </div>
 </div>
@@ -223,3 +234,4 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
   </a>
 </p>
 <br><br>
+
