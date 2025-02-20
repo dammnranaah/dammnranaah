@@ -59,9 +59,9 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
 
 <div align="center">
   <h2>
-    <img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="40px" height="40px"/>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHl4YzM2bHRxb2twc2VpamIxcWN5aXBxc3UzaTVxOW1wcWZmMTZyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5lbtfD3Hev1nvPaZhz/giphy.gif" width="40px" height="40px"/>
     <img src="https://custom-icon-badges.demolab.com/badge/-Tech%20Arsenal-4CDBFF?style=for-the-badge&logoColor=white" height="35"/>
-    <img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="40px" height="40px"/>
+    <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHl4YzM2bHRxb2twc2VpamIxcWN5aXBxc3UzaTVxOW1wcWZmMTZyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5lbtfD3Hev1nvPaZhz/giphy.gif" width="40px" height="40px"/>
   </h2>
 </div>
 
