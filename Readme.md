@@ -1,10 +1,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=24&text=Rana%20Ahmed&fontSize=80&fontAlignY=35&desc=Frontend%20Developer%20%7C%20Open-Source%20Enthusiast&descSize=20&descAlignY=55&animation=fadeIn" width="100%"/>
 
-  <div style="margin: 20px 0;">
-    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&duration=3000&pause=1000&color=4CDBFF&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=Building+Digital+Dreams+into+Reality+🚀;Where+Innovation+Meets+Pixel+Perfection+✨)](https://git.io/typing-svg)
-  </div>
-
   <div style="display: flex; gap: 15px; justify-content: center; margin: 20px 0;">
     <a href="https://github.com/dammnranaah" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-Profile-4CDBFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="30"/>
