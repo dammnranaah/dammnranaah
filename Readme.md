@@ -18,38 +18,6 @@
   </h1>
 
   <br>
-
-  <table align="center" border="none">
-    <tr>
-      <td align="center" width="33%">
-        <img width="100%" src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif">
-        <br><br>
-      </td>
-      <td align="center" width="33%" style="background: #1a1b27; border-radius: 10px; padding: 20px;">
-        <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
-      </td>
-      <td align="center" width="33%" style="background: #1a1b27; border-radius: 10px; padding: 20px;">
-        <img width="100%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-      </td>
-    </tr>
-    
-  </table>
-
-  <br>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=12&text=Rana%20Ahmed&fontSize=90&fontAlignY=40&desc=Frontend%20Developer%20|%20Open-Source%20Enthusiast&descSize=25&descAlignY=65&animation=fadeIn" width="100%"/>
-
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&multiline=true&repeat=false&width=600&height=100&lines=Building+Digital+Experiences+🚀;Code+%2B+Coffee+%3D+Magic+✨" alt="Typing SVG" />
-  </a>
-
-  <div>
-    <img src="https://komarev.com/ghpvc/?username=dammnranaah&style=for-the-badge&color=A020F0" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/dammnranaah?style=for-the-badge&color=A020F0" alt="Followers"/>
-    <img src="https://img.shields.io/github/stars/dammnranaah?style=for-the-badge&color=A020F0" alt="Stars"/>
-  </div>
-
   <h1>👋 Hello, I'm Rana Ahmed!</h1>
   <p>🚀 Frontend Developer | 🌍 Open-Source Enthusiast</p>
   <p>💻 Passionate about crafting immersive web experiences.</p>
