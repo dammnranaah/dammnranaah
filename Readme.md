@@ -58,15 +58,6 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
       </td>
     </tr>
   </table>
-
-
-<div align="center">
-
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
-
 </div>
 
 <div align="center">
@@ -165,22 +156,61 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
     <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40px" height="40px"/>
   </h2>
 
-  <div style="display: flex; gap: 15px; justify-content: center; margin: 20px 0;">
+  <div style="display: flex; flex-wrap: wrap; gap: 15px; justify-content: center; margin: 20px 0;">
+    <!-- Professional -->
     <a href="https://www.linkedin.com/in/dammnranaah/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-4CDBFF?style=for-the-badge&logo=linkedin&logoColor=white" height="30"/>
+      <img src="https://img.shields.io/badge/LinkedIn-4CDBFF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
     </a>
-    <a href="https://twitter.com/dammnranaah" target="_blank">
-      <img src="https://img.shields.io/badge/Twitter-4CDBFF?style=for-the-badge&logo=twitter&logoColor=white" height="30"/>
+    <a href="https://github.com/dammnranaah" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-4CDBFF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
     </a>
     <a href="https://dev.to/dammnranaah" target="_blank">
-      <img src="https://img.shields.io/badge/Dev.to-4CDBFF?style=for-the-badge&logo=dev.to&logoColor=black" height="30"/>
+      <img src="https://img.shields.io/badge/Dev.to-4CDBFF?style=for-the-badge&logo=dev.to&logoColor=white" alt="Dev.to"/>
     </a>
+    <a href="https://hashnode.com/@dammnranaah" target="_blank">
+      <img src="https://img.shields.io/badge/Hashnode-4CDBFF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
+    </a>
+    <!-- Coding Platforms -->
+    <a href="https://leetcode.com/dammnranaah" target="_blank">
+      <img src="https://img.shields.io/badge/LeetCode-4CDBFF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+    </a>
+    <a href="https://www.codechef.com/users/dammnranaah" target="_blank">
+      <img src="https://img.shields.io/badge/CodeChef-4CDBFF?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/>
+    </a>
+    <a href="https://codesandbox.io/u/dammnranaah" target="_blank">
+      <img src="https://img.shields.io/badge/CodeSandbox-4CDBFF?style=for-the-badge&logo=codesandbox&logoColor=white" alt="CodeSandbox"/>
+    </a>
+    <a href="https://www.kaggle.com/dammnranaah" target="_blank">
+      <img src="https://img.shields.io/badge/Kaggle-4CDBFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+    </a>
+    <!-- Creative & Social -->
     <a href="https://dribbble.com/dammnranaah" target="_blank">
-      <img src="https://img.shields.io/badge/Dribbble-4CDBFF?style=for-the-badge&logo=dribbble&logoColor=white" height="30"/>
+      <img src="https://img.shields.io/badge/Dribbble-4CDBFF?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
     </a>
-  </div> 
+    <a href="https://www.instagram.com/dammnranaah" target="_blank">
+      <img src="https://img.shields.io/badge/Instagram-4CDBFF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    </a>
+    <a href="https://www.youtube.com/@dammnranaah" target="_blank">
+      <img src="https://img.shields.io/badge/YouTube-4CDBFF?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
+    </a>
+    <a href="https://discord.gg/your-discord-invite" target="_blank">
+      <img src="https://img.shields.io/badge/Discord-4CDBFF?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    </a>
+  </div>
+
   <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Let's%20Create%20Something%20Extraordinary&fontSize=24&fontAlignY=65&animation=fadeIn" width="100%"/>
-</div>  
+    <a href="mailto:contact.dammnranaah@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Me-4CDBFF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://rana.unitypvp.xyz" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-4CDBFF?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+    </a>
+  </div>
 </div>
 
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Let's%20Create%20Something%20Extraordinary&fontSize=24&fontAlignY=65&animation=fadeIn" width="100%"/>
+</div>
+
+<h3 align="left">Support:</h3>
+<p><a href="https://www.buymeacoffee.com/buymeacoffee.com/dammnranaah"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee.com/dammnranaah" /></a><a href="https://ko-fi.com/kofi/dammnranaah"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="kofi/dammnranaah" /></a></p><br><br>
