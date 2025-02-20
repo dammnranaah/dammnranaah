@@ -22,66 +22,50 @@
   </h2>
 </div>
 
-<div style="background: rgba(76, 219, 255, 0.05); padding: 30px; border-radius: 20px; margin: 20px 0; border: 1px solid rgba(76, 219, 255, 0.1);">
-  <div style="display: flex; align-items: center; gap: 40px;">
-    <div style="flex: 1; text-align: left;">
-      <div style="margin-bottom: 30px;">
-        <h3 style="color: #4CDBFF; font-size: 32px; margin-bottom: 15px;">
-          👋 Hello World! I'm <span style="color: #4CDBFF;">Rana Ahmed</span>
-        </h3>
-        <p style="font-size: 20px; color: #B4F1FF; margin-bottom: 20px;">
-          <strong>Frontend Architect & Digital Innovation Specialist</strong>
-        </p>
-        <p style="color: #89CFF0; line-height: 1.8; font-size: 16px;">
-          Passionate about crafting exceptional digital experiences through clean, efficient code. 
-          Specializing in building innovative web solutions that combine aesthetic excellence with technical precision.
-        </p>
-      </div>
-      <div style="margin-bottom: 30px;">
-        <h4 style="color: #4CDBFF; font-size: 22px; margin-bottom: 20px;">🌟 Expertise Highlights:</h4>
-        <div style="display: grid; grid-template-columns: 1fr; gap: 15px;">
-          <div style="display: flex; align-items: center; gap: 15px;">
-            <img src="https://custom-icon-badges.demolab.com/badge/💻_Master_Frontend-4CDBFF?style=flat-square&logoColor=white" height="30"/>
-            <span style="color: #89CFF0; font-size: 16px;">Advanced React & Next.js Development</span>
-          </div>
-          <div style="display: flex; align-items: center; gap: 15px;">
-            <img src="https://custom-icon-badges.demolab.com/badge/🎨_UI/UX-4CDBFF?style=flat-square&logoColor=white" height="30"/>
-            <span style="color: #89CFF0; font-size: 16px;">Intuitive & Responsive Design Systems</span>
-          </div>
-          <div style="display: flex; align-items: center; gap: 15px;">
-            <img src="https://custom-icon-badges.demolab.com/badge/⚡_Performance-4CDBFF?style=flat-square&logoColor=white" height="30"/>
-            <span style="color: #89CFF0; font-size: 16px;">Optimization & Best Practices</span>
-          </div>
-        </div>
-      </div>
-      <div>
-        <h4 style="color: #4CDBFF; font-size: 20px; margin-bottom: 15px;">🚀 Current Adventures:</h4>
-        <div style="display: grid; grid-template-columns: 1fr; gap: 12px;">
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <img src="https://custom-icon-badges.demolab.com/badge/🔮_Exploring-4CDBFF?style=flat-square&logoColor=white" height="25"/>
-            <span style="color: #89CFF0;">Web3 Technologies & AI Integration</span>
-          </div>
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <img src="https://custom-icon-badges.demolab.com/badge/🛠️_Building-4CDBFF?style=flat-square&logoColor=white" height="25"/>
-            <span style="color: #89CFF0;">Scalable Full-Stack Solutions</span>
-          </div>
-          <div style="display: flex; align-items: center; gap: 10px;">
-            <img src="https://custom-icon-badges.demolab.com/badge/📚_Learning-4CDBFF?style=flat-square&logoColor=white" height="25"/>
-            <span style="color: #89CFF0;">Advanced System Architecture</span>
-          </div>
-        </div>
-      </div>
-    </div>
-    <div style="width: 45%; min-width: 350px;">
-      <div style="position: relative;">
-        <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" style="border-radius: 20px; box-shadow: 0 0 30px rgba(76, 219, 255, 0.3);"/>
-        <div style="position: absolute; bottom: -15px; right: -15px; background: rgba(76, 219, 255, 0.1); padding: 12px 20px; border-radius: 15px; backdrop-filter: blur(5px);">
-          <span style="color: #4CDBFF; font-weight: bold; font-size: 18px;">⚡ Always Coding</span>
-        </div>
-      </div>
-    </div>
-  </div>
+# 👋 Hi there, I'm Rana Ahmed
+
+<div align="center">
+  <h3>Frontend Architect & Digital Innovation Specialist</h3>
+  <p>🚀 Transforming ideas into exceptional digital experiences</p>
 </div>
+
+## 💫 About Me
+I'm passionate about crafting exceptional digital experiences through clean, efficient code. My expertise lies in building innovative web solutions that combine aesthetic excellence with technical precision.
+
+## 🛠️ Technical Arsenal
+
+### Core Expertise
+- 💻 Advanced React & Next.js Development
+- 🎨 Intuitive & Responsive Design Systems
+- ⚡ Performance Optimization & Best Practices
+
+### Current Focus
+- 🌐 Web3 Technologies & Blockchain Integration
+- 🤖 AI/ML Implementation in Web Apps
+- 🏗️ Scalable Full-Stack Architecture Design
+
+## 🔥 What I Do
+```javascript
+const rana = {
+    role: "Frontend Architect",
+    code: ["JavaScript", "TypeScript", "React", "Next.js"],
+    focus: ["Clean Code", "User Experience", "Innovation"],
+    currentlyLearning: ["Web3", "AI Integration", "System Design"]
+};
+```
+## 📫 Let's Connect
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](your-linkedin-url)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](your-twitter-url)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](your-portfolio-url)
+
+</div>
+<div align="center">
+  <i>⚡ "Code is poetry written in logic"</i>
+</div>
+
 
 <div align="center">
   <h2>
