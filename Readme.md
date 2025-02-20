@@ -29,6 +29,7 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
 <div align="center">
    <img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" height="230" width="350" />
 </div>
+<div></div>
   <table align="center">
     <tr>
       <td align="center" width="30%">
@@ -57,11 +58,9 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
         <br><br>
         <img src="https://img.shields.io/badge/🤝_OPEN_FOR-COLLABORATION-A020F0?style=for-the-badge"/>
       </td>
-<td></td>
     </tr>
   </table>
 </div>
-<div></div>
 <div align="center">
   <h2>
     <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHl4YzM2bHRxb2twc2VpamIxcWN5aXBxc3UzaTVxOW1wcWZmMTZyOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5lbtfD3Hev1nvPaZhz/giphy.gif" width="40px" height="40px"/>
