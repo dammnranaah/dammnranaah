@@ -16,8 +16,6 @@
   <h1 align="center">
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> About Me
   </h1>
-
-  <br>
   <h1>👋 Hello, I'm Rana Ahmed!</h1>
   <p>🚀 Frontend Developer | 🌍 Open-Source Enthusiast</p>
   <p>💻 Passionate about crafting immersive web experiences.</p>
