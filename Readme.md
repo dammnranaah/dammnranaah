@@ -23,18 +23,15 @@
 
   <table align="center" border="none">
     <tr>
-      <td align="center" width="33%">
-        <img width="100%" src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif">
-        <br><br>
-        <div align="center">
-          <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=A020F0&center=true&vCenter=true&repeat=true&width=435&lines=Hey%2C+I'm+Rana+Ahmed+%F0%9F%91%8B;Frontend+Developer+%F0%9F%9A%80;Open+Source+Enthusiast+%E2%9C%A8" alt="Typing SVG"/>
-        </div>
+      <td align="center" width="33%" style="background: #1a1b27; border-radius: 10px; padding: 20px;">
+        <h1 style="font-size: 50px; color: #fff;">Hello!</h1>
+        <p style="color: #A020F0; font-size: 20px;">Open Source Enthusiast</p>
       </td>
-      <td align="center" width="33%">
-        <img width="100%" src="https://github.com/dammnranaah/dammnranaah/blob/output/github-contribution-grid-snake-dark.svg">
+      <td align="center" width="33%" style="background: #1a1b27; border-radius: 10px; padding: 20px;">
+        <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
       </td>
-      <td align="center" width="33%">
-        <img width="100%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+      <td align="center" width="33%" style="background: #1a1b27; border-radius: 10px; padding: 20px;">
+        <img width="100%" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/bc8b5922c56704c44e1a46523fc1064f/raw/7e9f9963035f63cf1e8f8a4f68453fc45c6cab88/developer.gif" alt="Developer"/>
       </td>
     </tr>
   </table>
