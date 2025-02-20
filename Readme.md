@@ -25,6 +25,9 @@
 </div>
 
 Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Server management, automation, and PvP engineering with precision. Worked with elite creators and top gaming networks. Pioneering anti cheat technology, high-performance scripting, and performance optimization. Passion drives the grind Minecraft, Valorant, and GTA 5. Evolution drives us, building tomorrow one line of code at a time.
+<div align="center">
+   <img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" height="150" width="240" />
+</div>
   <table align="center">
     <tr>
       <td align="center" width="30%">
@@ -55,9 +58,6 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
       </td>
     </tr>
   </table>
-<div align="center">
-   <img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" height="150" width="240" />
-</div>
 </div>
 <div align="center">
   <h2>
