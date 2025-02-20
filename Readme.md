@@ -30,14 +30,12 @@
     <p>
       <strong>🚀 Frontend Alchemist</strong> turning caffeine into code
     </p>
-    
     <h4>💫 What Drives Me:</h4>
     <ul>
       <li>🔥 Creating intuitive web experiences</li>
       <li>🌐 Exploring cutting-edge technologies</li>
       <li>🤝 Building solutions that make a difference</li>
     </ul>
-
     <h4>🎯 Current Mission:</h4>
     <ul>
       <li>🔍 Deep diving into <strong>Web3 & AI</strong></li>
