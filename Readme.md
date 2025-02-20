@@ -56,7 +56,7 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
     </tr>
   </table>
 <div align="center">
-   <img src="https://tenor.com/view/coding-gif-18657810"/>
+   <img src="https://tenor.com/view/coding-kira-lena-urzendowsky-how-to-sell-drugs-online-fast-hacking-gif-17761682"/>
 </div>
 </div>
 <div align="center">
