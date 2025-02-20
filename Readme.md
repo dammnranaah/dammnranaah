@@ -47,7 +47,7 @@
         </p>
       </div>
 
-      <div>
+      <div
         <h3 style="color: #A020F0; margin-bottom: 15px;">▼ Technical Stack</h3>
         <p align="left">
           <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
@@ -60,7 +60,7 @@
         </p>
       </div>
 
-      <div>
+      <div
         <h3 style="color: #A020F0; margin-bottom: 15px;">▼ Current Focus</h3>
         <p align="left">
           <img src="https://img.shields.io/badge/🎓_LEARNING-WEB3_&_AI-A020F0?style=for-the-badge"/>
