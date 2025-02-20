@@ -16,61 +16,73 @@
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
   <h1 align="center">
-    👋 About Me
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"> About Me
   </h1>
 
-  <table align="center" border="0" style="width: 100%; background: #0D1117; border-radius: 10px; overflow: hidden;">
-    <tr style="border: none;">
-      <td align="center" width="30%" style="padding: 20px; background: #1a1b27; border: none;">
-        <div style="background: white; padding: 20px; border-radius: 10px;">
-          <h1 style="font-size: 60px; margin: 0; color: #1a1b27;">Hello!</h1>
-        </div>
-        <p style="color: #A020F0; font-size: 18px; margin-top: 15px;">Open Source Enthusiast</p>
+  <br>
+
+  <table align="center" border="none">
+    <tr>
+      <td align="center" width="33%">
+        <img width="100%" src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif">
+        <br><br>
       </td>
-      <td align="center" width="35%" style="padding: 20px; background: #1a1b27; border: none;">
-        <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" style="filter: hue-rotate(90deg)"/>
+      <td align="center" width="33%" style="background: #1a1b27; border-radius: 10px; padding: 20px;">
+        <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
       </td>
-      <td align="center" width="35%" style="padding: 20px; background: #1a1b27; border: none;">
-        <img width="100%" src="https://raw.githubusercontent.com/0xAbdulKhalid/0xAbdulKhalid/main/assets/mdImages/about_me.gif" alt="Developer" style="border-radius: 10px;"/>
+      <td align="center" width="33%" style="background: #1a1b27; border-radius: 10px; padding: 20px;">
+        <img width="100%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
       </td>
     </tr>
+    
   </table>
 
-  <div style="background: #1a1b27; border-radius: 10px; padding: 20px; margin: 20px 0;">
-    <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px;">
-      <div>
-        <h3 style="color: #A020F0; margin-bottom: 15px;">▼ Core Competencies</h3>
-        <p align="left">
-          <img src="https://img.shields.io/badge/FRONTEND_DEVELOPMENT-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
-          <img src="https://img.shields.io/badge/UI/UX_DESIGN-A020F0?style=for-the-badge&logo=figma&logoColor=white"/>
-          <img src="https://img.shields.io/badge/WEB_ARCHITECTURE-A020F0?style=for-the-badge&logo=webpack&logoColor=white"/>
-        </p>
-      </div>
+  <br>
 
-      <div
-        <h3 style="color: #A020F0; margin-bottom: 15px;">▼ Technical Stack</h3>
-        <p align="left">
-          <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-          <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
-          <br>
-          <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-          <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
-          <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        </p>
-      </div>
-
-      <div
-        <h3 style="color: #A020F0; margin-bottom: 15px;">▼ Current Focus</h3>
-        <p align="left">
-          <img src="https://img.shields.io/badge/🎓_LEARNING-WEB3_&_AI-A020F0?style=for-the-badge"/>
-          <br>
-          <img src="https://img.shields.io/badge/🚀_WORKING_ON-EXCITING_PROJECTS-A020F0?style=for-the-badge"/>
-          <br>
-          <img src="https://img.shields.io/badge/🤝_OPEN_FOR-COLLABORATION-A020F0?style=for-the-badge"/>
-        </p>
-      </div>
-    </div>
+  <div align="center">
+    <table border="0" cellspacing="1" cellpadding="2">
+      <tr>
+        <td align="center">
+          <details open>
+            <summary><b>Core Competencies</b></summary>
+            <br>
+            <p align="center">
+              <img src="https://img.shields.io/badge/Frontend_Development-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
+              <img src="https://img.shields.io/badge/UI/UX_Design-A020F0?style=for-the-badge&logo=figma&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Web_Architecture-A020F0?style=for-the-badge&logo=webpack&logoColor=white"/>
+            </p>
+          </details>
+        </td>
+        <td align="center">
+          <details open>
+            <summary><b>Technical Stack</b></summary>
+            <br>
+            <p align="center">
+              <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+              <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+              <br><br>
+              <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+              <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+              <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+            </p>
+          </details>
+        </td>
+        <td align="center">
+          <details open>
+            <summary><b>Current Focus</b></summary>
+            <br>
+            <p align="center">
+              <img src="https://img.shields.io/badge/Learning-Web3_&_AI-A020F0?style=for-the-badge&logo=ethereum&logoColor=white"/>
+              <br><br>
+              <img src="https://img.shields.io/badge/Working_On-Exciting_Projects-A020F0?style=for-the-badge&logo=github&logoColor=white"/>
+              <br><br>
+              <img src="https://img.shields.io/badge/Open_For-Collaboration-A020F0?style=for-the-badge&logo=handshake&logoColor=white"/>
+            </p>
+          </details>
+        </td>
+      </tr>
+    </table>
   </div>
 
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
