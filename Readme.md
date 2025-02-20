@@ -197,21 +197,7 @@
       <img src="https://img.shields.io/badge/Dribbble-4CDBFF?style=for-the-badge&logo=dribbble&logoColor=white" height="30"/>
     </a>
   </div>
-
-  <div style="background: rgba(76, 219, 255, 0.05); padding: 20px; border-radius: 10px; margin: 20px 0; border: 1px solid rgba(76, 219, 255, 0.1);">
-    <blockquote>
-      <p align="center" style="font-size: 18px; font-style: italic; color: #4CDBFF;">
-        "In the realm of code, every pixel tells a story, every function crafts an experience, and every project shapes the future of the web."
-      </p>
-      <p align="right" style="color: rgba(76, 219, 255, 0.7);">- Rana Ahmed</p>
-    </blockquote>
-  </div>
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Let's%20Create%20Something%20Extraordinary&fontSize=24&fontAlignY=65&animation=fadeIn" width="100%"/>
-  
+</div>  
   <div style="background: rgba(76, 219, 255, 0.05); padding: 10px; border-radius: 10px; margin: 20px 0; display: inline-block;">
-    <img src="https://profile-counter.glitch.me/dammnranaah/count.svg" height="30"/>
   </div>
 </div>
