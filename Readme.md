@@ -56,7 +56,7 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
     </tr>
   </table>
 <div align="center">
-   <img src="https://tenor.com/view/coding-gif-18657810"/img>
+   <img src="https://tenor.com/view/coding-gif-18657810"/>
 </div>
 </div>
 <div align="center">
