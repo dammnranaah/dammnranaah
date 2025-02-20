@@ -31,9 +31,10 @@
         <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
       </td>
       <td align="center" width="33%" style="background: #1a1b27; border-radius: 10px; padding: 20px;">
-        <img width="100%" src="https://raw.githubusercontent.com/gist/Prince-Shivaram/bc8b5922c56704c44e1a46523fc1064f/raw/7e9f9963035f63cf1e8f8a4f68453fc45c6cab88/developer.gif" alt="Developer"/>
+        <img width="100%" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
       </td>
     </tr>
+    
   </table>
 
   <br>
