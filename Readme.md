@@ -52,8 +52,6 @@
     <img src="https://img.shields.io/github/stars/dammnranaah?style=for-the-badge&color=A020F0" alt="Stars"/>
   </div>
 
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
   <h1>👋 Hello, I'm Rana Ahmed!</h1>
   <p>🚀 Frontend Developer | 🌍 Open-Source Enthusiast</p>
   <p>💻 Passionate about crafting immersive web experiences.</p>
