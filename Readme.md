@@ -42,56 +42,36 @@
 - 🎨 Blending creativity with technical excellence
 - 🌐 Building the future of web applications
 
-### 💼 Professional Journey
-```typescript
-class FrontendArchitect {
-    readonly name = "Rana Ahmed";
-    readonly role = "Frontend Architect & Innovation Specialist";
-    readonly passions = [
-        "Clean Code Architecture",
-        "User-Centric Design",
-        "Performance Optimization",
-        "Innovation in Web Tech"
-    ];
-    
-    readonly skills = {
-        frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
-        backend: ["Node.js", "Express", "MongoDB"],
-        tools: ["Docker", "AWS", "Git", "Figma"]
-    };
-
-    readonly mission = "Transforming ideas into exceptional digital experiences";
-}
-```
-
-### 🎯 Mission Statement
-> "Dedicated to crafting digital experiences that combine aesthetic excellence with technical precision. Every line of code is an opportunity to innovate and create something extraordinary."
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dammnranaah&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=4CDBFF&text_color=4CDBFF" alt="Most Used Languages" />
-</div>
-
-## 🛠️ Technical Arsenal
-
-### Core Expertise
-- 💻 Advanced React & Next.js Development
-- 🎨 Intuitive & Responsive Design Systems
-- ⚡ Performance Optimization & Best Practices
-
-### Current Focus
-- 🌐 Web3 Technologies & Blockchain Integration
-- 🤖 AI/ML Implementation in Web Apps
-- 🏗️ Scalable Full-Stack Architecture Design
-
-## 🔥 What I Do
-```javascript
-const rana = {
-    role: "Frontend Architect",
-    code: ["JavaScript", "TypeScript", "React", "Next.js"],
-    focus: ["Clean Code", "User Experience", "Innovation"],
-    currentlyLearning: ["Web3", "AI Integration", "System Design"]
-};
-```
+  <table align="center">
+    <tr>
+      <td align="center" width="30%">
+        <h3>🔹 Core Competencies</h3>
+        <img src="https://img.shields.io/badge/FRONTEND_DEVELOPMENT-A020F0?style=for-the-badge&logo=dev.to&logoColor=white"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/UI/UX_DESIGN-A020F0?style=for-the-badge&logo=figma&logoColor=white"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/WEB_ARCHITECTURE-A020F0?style=for-the-badge&logo=webpack&logoColor=white"/>
+      </td>
+      <td align="center" width="35%">
+        <h3>🔹 Technical Stack</h3>
+        <img src="https://img.shields.io/badge/React.js-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+      </td>
+      <td align="center" width="35%">
+        <h3>🔹 Current Focus</h3>
+        <img src="https://img.shields.io/badge/🎓_LEARNING-WEB3_&_AI-A020F0?style=for-the-badge"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/🚀_WORKING_ON-EXCITING_PROJECTS-A020F0?style=for-the-badge"/>
+        <br><br>
+        <img src="https://img.shields.io/badge/🤝_OPEN_FOR-COLLABORATION-A020F0?style=for-the-badge"/>
+      </td>
+    </tr>
+  </table>
 ## 📫 Let's Connect
 
 <div align="center">
