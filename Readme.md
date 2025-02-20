@@ -41,7 +41,6 @@
           Specializing in building innovative web solutions that combine aesthetic excellence with technical precision.
         </p>
       </div>
-
       <div style="margin-bottom: 30px; animation: slideIn 1.5s ease-out;">
         <h4 style="color: #4CDBFF; font-size: 22px; margin-bottom: 20px;">🌟 Expertise Highlights:</h4>
         <div style="display: grid; grid-template-columns: 1fr; gap: 15px;">
@@ -59,7 +58,6 @@
           </div>
         </div>
       </div>
-
       <div>
         <h4 style="color: #4CDBFF; font-size: 20px; margin-bottom: 15px;">🚀 Current Adventures:</h4>
         <div style="display: grid; grid-template-columns: 1fr; gap: 12px;">
@@ -78,7 +76,6 @@
         </div>
       </div>
     </div>
-
     <div style="width: 45%; min-width: 350px;">
       <div style="position: relative; animation: float 3s ease-in-out infinite;">
         <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" width="100%" style="border-radius: 20px; box-shadow: 0 0 30px rgba(76, 219, 255, 0.3);"/>
