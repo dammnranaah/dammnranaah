@@ -22,7 +22,6 @@
   </h2>
 </div>
 <div align="center">
-  <img align="right" alt="Coding" height="290" width="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div>
 
 Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Server management, automation, and PvP engineering with precision. Worked with elite creators and top gaming networks. Pioneering anti cheat technology, high-performance scripting, and performance optimization. Passion drives the grind Minecraft, Valorant, and GTA 5. Evolution drives us, building tomorrow one line of code at a time.
@@ -67,6 +66,11 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
 </div>
 
 <div align="center" style="background: rgba(76, 219, 255, 0.05); padding: 30px; border-radius: 20px; margin: 20px 0; border: 1px solid rgba(76, 219, 255, 0.1);">
+  <div style="margin: 20px 0;">
+    <img src="https://camo.githubusercontent.com/01c83210f7feb975ea3b9a852808beb6689425add364906e8b9711f3d87622e1/68747470733a2f2f696d616765732e73717561726573706163652d63646e2e636f6d2f636f6e74656e742f76312f3537363966633430316236333162616231616464623261622f313534313538303631313632342d5445363451474b524a4738535741495553374e532f6b6531375a77644742546f6464493870446d34386b506f73776c7a6a53564d4d2d53784f703743563539425a772d7a505067646e346a557756634a45315a7657515578776b6d794578676c4e714770304976544a5a616d574c49327a76595748384b332d735f3479737a63703272795449304871544f6161556f68724938504936465879386339505774426c7141566c555335697a7064634958445a71445976707252715a32395077306f2f636f64696e672d667265616b2e676966" width="350" />
+    <img src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966" width="350" />
+  </div>
+
   <div style="margin-bottom: 25px;">
     <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,ts,nodejs,express,mongodb&perline=8&theme=dark" height="40"/>
     <br/>
