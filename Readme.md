@@ -196,9 +196,8 @@
     <a href="https://dribbble.com/dammnranaah" target="_blank">
       <img src="https://img.shields.io/badge/Dribbble-4CDBFF?style=for-the-badge&logo=dribbble&logoColor=white" height="30"/>
     </a>
-  </div>
+  </div> 
+  <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&section=footer&text=Let's%20Create%20Something%20Extraordinary&fontSize=24&fontAlignY=65&animation=fadeIn" width="100%"/>
 </div>  
-  <div style="background: rgba(76, 219, 255, 0.05); padding: 10px; border-radius: 10px; margin: 20px 0; display: inline-block;">
-    <img src="https://profile-counter.glitch.me/dammnranaah/count.svg" height="30"/>
-  </div>
 </div>
