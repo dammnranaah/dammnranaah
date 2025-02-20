@@ -23,9 +23,9 @@
 
   <table align="center" border="none">
     <tr>
-      <td align="center" width="33%" style="background: #1a1b27; border-radius: 10px; padding: 20px;">
-        <h1 style="font-size: 50px; color: #fff;">Hello!</h1>
-        <p style="color: #A020F0; font-size: 20px;">Open Source Enthusiast</p>
+      <td align="center" width="33%">
+        <img width="100%" src="https://gist.githubusercontent.com/Prince-Shivaram/3ace2c813ca49546f3f5f20cd03a2d3e/raw/6058e76860d16ee29df949da3166b3653959318f/hello.gif">
+        <br><br>
       </td>
       <td align="center" width="33%" style="background: #1a1b27; border-radius: 10px; padding: 20px;">
         <img width="100%" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation"/>
