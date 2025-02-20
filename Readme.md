@@ -21,10 +21,8 @@
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px" height="40px"/>
   </h2>
 </div>
-## 💫 About Me
-
 <div align="center">
-  <img align="right" alt="Coding" height="290" width="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+  <img align="right" alt="Coding" height="290" width="150" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 </div>
 
 Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Server management, automation, and PvP engineering with precision. Worked with elite creators and top gaming networks. Pioneering anti cheat technology, high-performance scripting, and performance optimization. Passion drives the grind Minecraft, Valorant, and GTA 5. Evolution drives us, building tomorrow one line of code at a time.
@@ -170,7 +168,6 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
     <a href="https://hashnode.com/@dammnranaah" target="_blank">
       <img src="https://img.shields.io/badge/Hashnode-4CDBFF?style=for-the-badge&logo=hashnode&logoColor=white" alt="Hashnode"/>
     </a>
-    
     <!-- Coding Platforms -->
     <a href="https://leetcode.com/dammnranaah" target="_blank">
       <img src="https://img.shields.io/badge/LeetCode-4CDBFF?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
@@ -184,7 +181,6 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
     <a href="https://www.kaggle.com/dammnranaah" target="_blank">
       <img src="https://img.shields.io/badge/Kaggle-4CDBFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
     </a>
-
     <!-- Creative & Social -->
     <a href="https://dribbble.com/dammnranaah" target="_blank">
       <img src="https://img.shields.io/badge/Dribbble-4CDBFF?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"/>
