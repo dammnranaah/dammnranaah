@@ -236,6 +236,9 @@ Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Serv
   <a href="https://ko-fi.com/kofi/dammnranaah">
     <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="" width="210" alt="kofi/dammnranaah" />
   </a>
+
+<div class="contra-hire-me-button" data-analyticsUserId="97e16575-2738-47e0-8262-359ede6cfc49" data-theme="dark" data-username="dammnranaah"></div><script async src="https://contra.com/static/embed/sdk.js" charset="utf-8"></script>
+
   <a href="https://discord.gg/etNxAfPHbs">
     <img align="left" src="https://images-ext-1.discordapp.net/external/s-c5qlKntkjGqCuNB7UCgVoe349krAsLVBHoJtS2hhg/https/cdn.discordapp.com/icons/1339361200479404042/23b0ebca0ac90e6782cca293a7f63424.png?format=webp&quality=lossless&width=115&height=80" height="80" width="80" alt="Join our Discord" />
   </a>
