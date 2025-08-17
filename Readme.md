@@ -24,7 +24,11 @@
 <div align="center">
 </div>
 
-Visionary Minecraft architect, ZyroNodes CEO, revolutionizing game hosting. Server management, automation, and PvP engineering with precision. Worked with elite creators and top gaming networks. Pioneering anti cheat technology, high-performance scripting, and performance optimization. Passion drives the grind Minecraft, Valorant, and GTA 5. Evolution drives us, building tomorrow one line of code at a time.
+I'm a full stack developer with a little over 5 years of experience building for the gaming world and the web. I've worked on everything from custom Minecraft plugins to mobile and web apps, and I've spent a lot of time setting up and managing gaming servers that can handle serious traffic without breaking a sweat.
+
+I know my way around both frontend and backend development, so I can take an idea from concept to a fully working product. I've built tools for Discord communities, automated a ton of tasks for server admins, and created apps that make gaming communities run smoother and feel more connected.
+
+At the end of the day, I like making things that work fast, scale well, and actually make life easier for players and community managers.
 <div></div>
 <div align="center">
    <img src="https://media1.tenor.com/m/IieZUsqoYCwAAAAC/developer.gif" height="230" width="350" />
